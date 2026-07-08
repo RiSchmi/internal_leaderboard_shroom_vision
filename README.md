@@ -13,12 +13,22 @@ internal_leaderboard/
 ├── lib/
 │   ├── validation.py          # strict format checks for .jsonl / .zip uploads
 │   ├── scoring.py             # runs validate_shroom.score() vs data/gold
-│   └── storage.py             # GitHub Contents API read/write (local fallback)
+│   ├── storage.py             # GitHub Contents API read/write (local fallback)
+│   └── validate_shroom.py     # vendored copy of ../evaluation/validate_shroom.py
 ├── data/gold/                 # test gold copies (participant_kit data is gitignored)
 ├── submissions/               # committed submissions (metadata, scores, predictions)
 ├── requirements.txt
 └── .streamlit/secrets.toml.example
 ```
+
+> **Self-contained on purpose.** When the app is deployed as its *own* repo on
+> Streamlit Cloud (repo root = this folder), `../evaluation/` and
+> `../participant_kit/` do not exist. `lib/validate_shroom.py` and `data/gold/`
+> are vendored copies so scoring works standalone. Inside the monorepo the
+> canonical `evaluation/validate_shroom.py` is used automatically (it takes
+> precedence). **If you change the canonical scorer, re-copy it:**
+> `cp evaluation/validate_shroom.py internal_leaderboard/lib/validate_shroom.py`.
+
 
 ## Run locally
 

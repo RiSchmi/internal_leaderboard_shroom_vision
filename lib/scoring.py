@@ -12,12 +12,20 @@ from .validation import LANGUAGES, ValidationError
 
 _THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 APP_DIR = os.path.dirname(_THIS_DIR)              # internal_leaderboard/
-REPO_ROOT = os.path.dirname(APP_DIR)              # ACL-August-8-2026/
+REPO_ROOT = os.path.dirname(APP_DIR)              # ACL-August-8-2026/ (monorepo)
 
-VALIDATOR_PATH = os.path.join(REPO_ROOT, "evaluation", "validate_shroom.py")
+# Locate validate_shroom.py. A vendored copy inside lib/ makes the app
+# self-contained when it is deployed as its own repo (Streamlit Cloud); the
+# monorepo copy under evaluation/ is preferred when present so the leaderboard
+# always tracks the canonical scorer.
+VALIDATOR_CANDIDATES = [
+    os.path.join(REPO_ROOT, "evaluation", "validate_shroom.py"),
+    os.path.join(_THIS_DIR, "validate_shroom.py"),
+]
 
-# Gold lookup order: leaderboard-local copy (works on Streamlit Cloud, where
-# participant_kit/.../data is gitignored), then the participant_kit original.
+# Gold lookup order: leaderboard-local copy (always present, works on Streamlit
+# Cloud where participant_kit/.../data is gitignored), then the participant_kit
+# original when running inside the monorepo.
 GOLD_DIRS = [
     os.path.join(APP_DIR, "data", "gold"),
     os.path.join(
@@ -28,10 +36,18 @@ GOLD_DIRS = [
 GOLD_TEMPLATE = "shroom-vision.test.{lang}.labeled.jsonl"
 
 
+def _validator_path() -> str:
+    for path in VALIDATOR_CANDIDATES:
+        if os.path.exists(path):
+            return path
+    raise FileNotFoundError(
+        "validate_shroom.py not found. Looked in: " + ", ".join(VALIDATOR_CANDIDATES)
+    )
+
+
 def _load_validator():
-    if not os.path.exists(VALIDATOR_PATH):
-        raise FileNotFoundError(f"validate_shroom.py not found at {VALIDATOR_PATH}")
-    spec = importlib.util.spec_from_file_location("validate_shroom", VALIDATOR_PATH)
+    path = _validator_path()
+    spec = importlib.util.spec_from_file_location("validate_shroom", path)
     module = importlib.util.module_from_spec(spec)
     sys.modules["validate_shroom"] = module
     spec.loader.exec_module(module)
