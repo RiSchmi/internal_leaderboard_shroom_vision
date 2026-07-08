@@ -1,0 +1,12 @@
+{
+  "name": "Hallushift++ (probe baseline)",
+  "short_description": "Hallushift++ with LLaVa & RF-classifier",
+  "long_description": "This is the baseline by the challenge provider, following the implmentation described in the Hallushift++ paper (https://arxiv.org/abs/2512.07687). The image, prompt, answer (with hallucination) pair is processed with a VLM (the suggested 7B LlaVa model) and the internal states are captured. The internal state derived features ('Hidden_layer_norms', 'max_prob', 'perplexity', 'target_prob', 'token_nll', 'token_text_len', 'token_index', 'response_len') are given to traditional ML models and MLP to predict hallucination and class types (seperate) using supervised finetuning. Random Forest was found to be best. NOTE: some features described in the paper where unable to be fetched in my run, including attention means and attention entropies. Room for improvement, different VLM and better predictor, more samples.",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-08 09:40:10 UTC"
+}
