@@ -333,6 +333,6 @@ with tab_board:
                     missing = {l: c["missing"] for l, c in coverage.items() if c["missing"]}
                     if missing:
                         st.warning(
-                            "Missing predictions (scored as empty): "
+                            "Ids without a prediction (not scored): "
                             + ", ".join(f"{l}: {n}" for l, n in sorted(missing.items()))
                         )
