@@ -1,0 +1,12 @@
+{
+  "name": "First, very bad probe",
+  "short_description": "Qwen 3 VL 4B layer -1 embs -> encoder with 2 layers -> prediction head -> filter confidence 0.3",
+  "long_description": "SEED = 42\nNUM_EPOCHS = 50\nBATCH_SIZE = 128\nNUM_WORKERS = 4\nPREFETCH_FACTOR = 2\nPIN_MEMORY = True\n\nINPUT_DIM = 2560\nMODEL_DIM = 512\nNUM_ENCODER_LAYERS = 1\nNUM_ATTENTION_HEADS = 8\nFEEDFORWARD_DIM = 2048\nDROPOUT = 0.1\nNUM_CLASSES = 6\n\nLR_SCHEDULER_FACTOR = 0.5\nLR_SCHEDULER_PATIENCE = 2\nMIN_LEARNING_RATE = 1e-6\n\nEARLY_STOPPING_PATIENCE = 20\nEARLY_STOPPING_MIN_DELTA = 1e-4\n\nLEARNING_RATE = 3e-4\nWEIGHT_DECAY = 1e-2\nMAX_GRAD_NORM = 1.0",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-14 08:49:14 UTC"
+}
