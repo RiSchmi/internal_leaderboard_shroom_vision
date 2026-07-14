@@ -1,0 +1,12 @@
+{
+  "name": "Simple cross attn with pos embed on context",
+  "short_description": "Same as prior, but add simple pos embed on context tokens as well",
+  "long_description": "SEED = 42\nNUM_EPOCHS = 50\n\nBATCH_SIZE = 64\nNUM_WORKERS = 4\nPREFETCH_FACTOR = 2\nPIN_MEMORY = True\n\nINPUT_DIM = 2560\nMODEL_DIM = 256\nNUM_HEADS = 8\nRESPONSE_SELF_ATTENTION_LAYERS = 1\nFEEDFORWARD_DIM = 1024\nDROPOUT = 0.2\nNUM_CLASSES = 6\nMAX_RESPONSE_LENGTH = 512\nMAX_CONTEXT_TOKENS = 512\n\nLEARNING_RATE = 3e-4\nWEIGHT_DECAY = 1e-2\nMAX_GRAD_NORM = 1.0\nCLASS_WEIGHTS = torch.tensor([1.0, 2.5, 3.7, 10.0, 8.0, 5.9], dtype=torch.float32)\n\nLR_SCHEDULER_FACTOR = 0.5\nLR_SCHEDULER_PATIENCE = 2\nMIN_LEARNING_RATE = 1e-6\nEARLY_STOPPING_PATIENCE = 6\nEARLY_STOPPING_MIN_DELTA = 1e-4",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-14 12:17:50 UTC"
+}
