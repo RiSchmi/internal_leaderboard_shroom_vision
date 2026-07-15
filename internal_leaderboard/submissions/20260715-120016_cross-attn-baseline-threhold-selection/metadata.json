@@ -1,0 +1,12 @@
+{
+  "name": "cross_attn baseline, threhold selection",
+  "short_description": "same as before",
+  "long_description": "same as before",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-15 12:00:16 UTC"
+}
