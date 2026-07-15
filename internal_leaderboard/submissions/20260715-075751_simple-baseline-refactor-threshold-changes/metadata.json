@@ -1,0 +1,12 @@
+{
+  "name": "Simple baseline refactor, threshold changes",
+  "short_description": "No cross attn baseline",
+  "long_description": "SEED = 42\nEPOCHS = 50\nBATCH_SIZE = 128\nNUM_WORKERS = 4\nPREFETCH_FACTOR = 2\nDEVICE = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nAMP_DTYPE = torch.bfloat16\nUSE_AMP = DEVICE.type == \"cuda\"\n\nMODEL_CONFIG = {\n    \"architecture\": \"baseline\",\n    \"input_dim\": 2560,\n    \"model_dim\": 512,\n    \"num_layers\": 1,\n    \"num_heads\": 8,\n    \"feedforward_dim\": 2048,\n    \"dropout\": 0.1,\n    \"num_classes\": 6,\n    \"max_response_length\": 512,\n}\n\nLEARNING_RATE = 3e-4\nWEIGHT_DECAY = 1e-2\nMAX_GRAD_NORM = 1.0\nCLASS_WEIGHTS = [1.0, 2.5, 3.7, 10.0, 8.0, 5.9]\nSCHEDULER_FACTOR = 0.5\nSCHEDULER_PATIENCE = 2\nMIN_LEARNING_RATE = 1e-6\nEARLY_STOPPING_PATIENCE = 20\nMIN_IMPROVEMENT = 1e-4",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-15 07:57:51 UTC"
+}
