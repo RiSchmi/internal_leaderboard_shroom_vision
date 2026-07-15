@@ -1,0 +1,12 @@
+{
+  "name": "cross_attn + mlp (min dev loss)",
+  "short_description": "Cross_attn baseline with mlp classification head, chosen with dev loss",
+  "long_description": "self.classifier = nn.Sequential(\n            nn.LayerNorm(model_dim),\n            nn.Linear(model_dim, model_dim),\n            nn.GELU(),\n            nn.Dropout(dropout),\n            nn.Linear(model_dim, num_classes),\n        )\n\nSEED = 42\nEPOCHS = 50\nBATCH_SIZE = 64\nNUM_WORKERS = 4\nPREFETCH_FACTOR = 2\nDEVICE = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nUSE_AMP = DEVICE.type == \"cuda\"\nAMP_DTYPE = torch.bfloat16\n\nMODEL_CONFIG = {\n    \"architecture\": \"cross_attention\",\n    \"input_dim\": 2560,\n    \"model_dim\": 256,\n    \"num_heads\": 8,\n    \"response_layers\": 1,\n    \"feedforward_dim\": 1024,\n    \"dropout\": 0.2,\n    \"num_classes\": 6,\n    \"max_response_length\": 512,\n    \"max_context_tokens\": 512,\n}\n\nLEARNING_RATE = 3e-4\nWEIGHT_DECAY = 1e-2\nMAX_GRAD_NORM = 1.0\nCLASS_WEIGHTS = [1.0, 2.5, 3.7, 10.0, 8.0, 5.9]\nSCHEDULER_FACTOR = 0.5\nSCHEDULER_PATIENCE = 2\nMIN_LEARNING_RATE = 1e-6\nEARLY_STOPPING_PATIENCE = 6\nMIN_IMPROVEMENT = 1e-4",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-15 13:28:39 UTC"
+}
