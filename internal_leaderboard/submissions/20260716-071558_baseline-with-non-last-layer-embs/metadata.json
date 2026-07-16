@@ -1,0 +1,12 @@
+{
+  "name": "Baseline with non-last layer embs",
+  "short_description": "-9th layer baseline",
+  "long_description": "Same as previously",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-16 07:15:58 UTC"
+}
