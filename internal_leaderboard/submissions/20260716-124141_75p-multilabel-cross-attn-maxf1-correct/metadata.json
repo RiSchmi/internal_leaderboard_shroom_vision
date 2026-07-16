@@ -1,0 +1,12 @@
+{
+  "name": "75p multilabel cross_attn maxf1 (correct)",
+  "short_description": "multilabel cross_attn baseline, max f1 chosen",
+  "long_description": "MODEL_CONFIG = {\n    \"architecture\": \"cross_attention_multilabel\",\n    \"input_dim\": 2560,\n    \"model_dim\": 256,\n    \"num_heads\": 8,\n    \"response_layers\": 1,\n    \"feedforward_dim\": 1024,\n    \"dropout\": 0.2,\n    \"num_types\": 5,\n    \"max_response_length\": 512,\n    \"max_context_tokens\": 512,\n}\n\nLEARNING_RATE = 1e-4\nWEIGHT_DECAY = 1e-2\nMAX_GRAD_NORM = 1.0\nHALLUCINATION_POS_WEIGHT = 2.5\nTYPE_POS_WEIGHTS = [2.5, 3.7, 10.0, 8.0, 5.9]\nBOUNDARY_POS_WEIGHT = 10.0\nTYPE_LOSS_WEIGHT = 1.0\nBOUNDARY_LOSS_WEIGHT = 0.1\nSCHEDULER_FACTOR = 0.5\nSCHEDULER_PATIENCE = 2\nMIN_LEARNING_RATE = 1e-6\nEARLY_STOPPING_PATIENCE = 6\nMIN_IMPROVEMENT = 1e-4",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-16 12:41:41 UTC"
+}
