@@ -1,0 +1,12 @@
+{
+  "name": "Ensemble_baseline",
+  "short_description": "Ensemble-base architecture - single best model",
+  "long_description": "Our system detects and labels hallucinated spans in the text that a vision-language model wrote about an image. It follows the idea behind the gold data, which was produced by several human annotators: instead of trusting one model, we ask a small committee of vision-language models (one to three) to each read the same image, prompt, and response and mark the parts they believe are not supported by the image. We then combine their marks in the same way a panel of annotators is combined, and we produce two outputs that match the two things the shared task measures: which characters are hallucinated (scored by IoU) and, for each character, how likely it is to be hallucinated (scored by correlation with human agreement).",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-19 15:48:49 UTC"
+}
