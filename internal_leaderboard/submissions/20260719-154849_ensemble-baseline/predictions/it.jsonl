@@ -1,0 +1,500 @@
+{"id": "train-it-5011", "labels": [{"start": 39, "end": 46, "prob": 1.0, "label": "invention"}, {"start": 54, "end": 61, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5033", "labels": [{"start": 251, "end": 261, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5060", "labels": []}
+{"id": "train-it-5068", "labels": []}
+{"id": "train-it-5069", "labels": []}
+{"id": "train-it-5086", "labels": []}
+{"id": "train-it-5088", "labels": [{"start": 127, "end": 142, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5124", "labels": [{"start": 69, "end": 71, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-5125", "labels": [{"start": 101, "end": 118, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-5126", "labels": [{"start": 20, "end": 26, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 243, "end": 266, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5127", "labels": [{"start": 62, "end": 108, "prob": 0.3333333333, "label": "invention"}, {"start": 202, "end": 234, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-5130", "labels": []}
+{"id": "train-it-5134", "labels": []}
+{"id": "train-it-5144", "labels": []}
+{"id": "train-it-5147", "labels": []}
+{"id": "train-it-5161", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "mischaracterization"}, {"start": 44, "end": 52, "prob": 1.0, "label": "invention"}, {"start": 104, "end": 121, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5194", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 68, "end": 81, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 400, "end": 411, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 414, "end": 427, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-5208", "labels": []}
+{"id": "train-it-5220", "labels": [{"start": 89, "end": 133, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5226", "labels": [{"start": 111, "end": 117, "prob": 0.6666666667, "label": "miscounting"}, {"start": 205, "end": 268, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5228", "labels": [{"start": 38, "end": 72, "prob": 1.0, "label": "mischaracterization"}, {"start": 81, "end": 141, "prob": 1.0, "label": "mischaracterization"}, {"start": 160, "end": 181, "prob": 1.0, "label": "mischaracterization"}, {"start": 233, "end": 277, "prob": 1.0, "label": "mischaracterization"}, {"start": 305, "end": 342, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5235", "labels": [{"start": 160, "end": 179, "prob": 0.6666666667, "label": "miscounting"}, {"start": 317, "end": 336, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-5236", "labels": []}
+{"id": "train-it-5241", "labels": [{"start": 192, "end": 193, "prob": 0.6666666667, "label": "invention"}, {"start": 198, "end": 199, "prob": 0.6666666667, "label": "invention"}, {"start": 204, "end": 205, "prob": 0.6666666667, "label": "invention"}, {"start": 210, "end": 211, "prob": 0.6666666667, "label": "invention"}, {"start": 216, "end": 217, "prob": 0.6666666667, "label": "invention"}, {"start": 222, "end": 223, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5267", "labels": [{"start": 53, "end": 66, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 177, "end": 194, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5270", "labels": []}
+{"id": "train-it-5281", "labels": []}
+{"id": "train-it-5298", "labels": []}
+{"id": "train-it-5306", "labels": []}
+{"id": "train-it-5329", "labels": []}
+{"id": "train-it-5334", "labels": [{"start": 58, "end": 63, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 154, "end": 159, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-5359", "labels": []}
+{"id": "train-it-5372", "labels": []}
+{"id": "train-it-5374", "labels": [{"start": 216, "end": 223, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-5377", "labels": []}
+{"id": "train-it-5380", "labels": []}
+{"id": "train-it-5386", "labels": []}
+{"id": "train-it-5403", "labels": [{"start": 58, "end": 73, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-5406", "labels": [{"start": 91, "end": 165, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5418", "labels": [{"start": 48, "end": 49, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-5425", "labels": []}
+{"id": "train-it-5428", "labels": [{"start": 72, "end": 94, "prob": 1.0, "label": "mischaracterization"}, {"start": 178, "end": 190, "prob": 1.0, "label": "mischaracterization"}, {"start": 262, "end": 268, "prob": 1.0, "label": "mischaracterization"}, {"start": 275, "end": 300, "prob": 1.0, "label": "mischaracterization"}, {"start": 384, "end": 390, "prob": 1.0, "label": "mischaracterization"}, {"start": 430, "end": 436, "prob": 1.0, "label": "mischaracterization"}, {"start": 443, "end": 459, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5429", "labels": [{"start": 45, "end": 52, "prob": 1.0, "label": "miscounting"}, {"start": 45, "end": 76, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5431", "labels": []}
+{"id": "train-it-5440", "labels": []}
+{"id": "train-it-5443", "labels": []}
+{"id": "train-it-5448", "labels": [{"start": 0, "end": 235, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5459", "labels": []}
+{"id": "train-it-5464", "labels": []}
+{"id": "train-it-5468", "labels": [{"start": 108, "end": 124, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5470", "labels": []}
+{"id": "train-it-5471", "labels": [{"start": 7, "end": 20, "prob": 1.0, "label": "mischaracterization"}, {"start": 66, "end": 74, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 125, "end": 146, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5475", "labels": []}
+{"id": "train-it-5476", "labels": [{"start": 32, "end": 40, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 52, "end": 55, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-5482", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "mischaracterization"}, {"start": 57, "end": 76, "prob": 0.6666666667, "label": "invention"}, {"start": 123, "end": 130, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5488", "labels": [{"start": 74, "end": 82, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5509", "labels": [{"start": 6, "end": 20, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5511", "labels": []}
+{"id": "train-it-5516", "labels": []}
+{"id": "train-it-5520", "labels": []}
+{"id": "train-it-5550", "labels": [{"start": 297, "end": 328, "prob": 0.6666666667, "label": "miscounting"}, {"start": 435, "end": 448, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-5552", "labels": [{"start": 36, "end": 49, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-5554", "labels": [{"start": 43, "end": 52, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5557", "labels": [{"start": 0, "end": 43, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5576", "labels": [{"start": 35, "end": 49, "prob": 1.0, "label": "mischaracterization"}, {"start": 56, "end": 79, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5580", "labels": [{"start": 0, "end": 38, "prob": 1.0, "label": "mischaracterization"}, {"start": 40, "end": 78, "prob": 1.0, "label": "mischaracterization"}, {"start": 110, "end": 126, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5581", "labels": [{"start": 141, "end": 148, "prob": 0.3333333333, "label": "invention"}, {"start": 823, "end": 836, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-5596", "labels": []}
+{"id": "train-it-5599", "labels": [{"start": 0, "end": 10, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 23, "end": 30, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-5610", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5612", "labels": [{"start": 166, "end": 173, "prob": 1.0, "label": "other"}, {"start": 191, "end": 219, "prob": 1.0, "label": "mischaracterization"}, {"start": 345, "end": 363, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 421, "end": 427, "prob": 1.0, "label": "other"}, {"start": 504, "end": 522, "prob": 1.0, "label": "other"}, {"start": 688, "end": 719, "prob": 1.0, "label": "mischaracterization"}, {"start": 765, "end": 776, "prob": 0.6666666667, "label": "other"}, {"start": 801, "end": 810, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-5640", "labels": [{"start": 51, "end": 65, "prob": 1.0, "label": "invention"}, {"start": 926, "end": 940, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5643", "labels": [{"start": 14, "end": 30, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 134, "end": 142, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5646", "labels": []}
+{"id": "train-it-5654", "labels": [{"start": 22, "end": 41, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5659", "labels": [{"start": 67, "end": 71, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-5660", "labels": []}
+{"id": "train-it-5673", "labels": []}
+{"id": "train-it-5682", "labels": [{"start": 0, "end": 2, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 31, "end": 46, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5686", "labels": [{"start": 62, "end": 72, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5690", "labels": []}
+{"id": "train-it-5691", "labels": [{"start": 28, "end": 34, "prob": 1.0, "label": "invention"}, {"start": 38, "end": 82, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5723", "labels": [{"start": 34, "end": 37, "prob": 1.0, "label": "miscounting"}, {"start": 38, "end": 53, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5730", "labels": [{"start": 35, "end": 49, "prob": 1.0, "label": "mischaracterization"}, {"start": 51, "end": 70, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5748", "labels": []}
+{"id": "train-it-5762", "labels": []}
+{"id": "train-it-5767", "labels": [{"start": 66, "end": 86, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-5769", "labels": [{"start": 26, "end": 32, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 59, "end": 77, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5772", "labels": [{"start": 8, "end": 11, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-5785", "labels": [{"start": 29, "end": 36, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5793", "labels": [{"start": 20, "end": 34, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 83, "end": 95, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 151, "end": 164, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5802", "labels": [{"start": 15, "end": 92, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5813", "labels": []}
+{"id": "train-it-5816", "labels": [{"start": 0, "end": 2, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 39, "end": 50, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5820", "labels": [{"start": 0, "end": 44, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5828", "labels": []}
+{"id": "train-it-5829", "labels": [{"start": 16, "end": 22, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-5848", "labels": [{"start": 43, "end": 53, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-5859", "labels": [{"start": 0, "end": 45, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5860", "labels": []}
+{"id": "train-it-5868", "labels": []}
+{"id": "train-it-5882", "labels": [{"start": 17, "end": 26, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-5885", "labels": [{"start": 54, "end": 60, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-5889", "labels": []}
+{"id": "train-it-5894", "labels": [{"start": 0, "end": 40, "prob": 1.0, "label": "miscounting"}, {"start": 42, "end": 82, "prob": 1.0, "label": "invention"}, {"start": 93, "end": 132, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-5908", "labels": [{"start": 81, "end": 105, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5909", "labels": []}
+{"id": "train-it-5911", "labels": []}
+{"id": "train-it-5913", "labels": [{"start": 53, "end": 59, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5917", "labels": []}
+{"id": "train-it-5921", "labels": []}
+{"id": "train-it-5923", "labels": [{"start": 38, "end": 47, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 62, "end": 66, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-5946", "labels": [{"start": 51, "end": 123, "prob": 1.0, "label": "invention"}, {"start": 125, "end": 282, "prob": 1.0, "label": "invention"}, {"start": 345, "end": 495, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-5954", "labels": [{"start": 27, "end": 57, "prob": 0.3333333333, "label": "miscounting"}, {"start": 200, "end": 293, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-5960", "labels": [{"start": 26, "end": 32, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5968", "labels": [{"start": 22, "end": 28, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-5970", "labels": [{"start": 0, "end": 26, "prob": 1.0, "label": "miscounting"}, {"start": 70, "end": 89, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6003", "labels": [{"start": 0, "end": 249, "prob": 1.0, "label": "invention"}, {"start": 340, "end": 535, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6005", "labels": [{"start": 35, "end": 50, "prob": 0.6666666667, "label": "invention"}, {"start": 72, "end": 89, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6009", "labels": [{"start": 50, "end": 73, "prob": 0.3333333333, "label": "invention"}, {"start": 109, "end": 195, "prob": 0.3333333333, "label": "invention"}, {"start": 337, "end": 414, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-6025", "labels": []}
+{"id": "train-it-6026", "labels": [{"start": 0, "end": 95, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6028", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "mischaracterization"}, {"start": 19, "end": 33, "prob": 1.0, "label": "mischaracterization"}, {"start": 59, "end": 82, "prob": 0.6666666667, "label": "invention"}, {"start": 159, "end": 164, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 169, "end": 192, "prob": 0.6666666667, "label": "invention"}, {"start": 217, "end": 234, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6031", "labels": [{"start": 0, "end": 48, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6032", "labels": [{"start": 11, "end": 23, "prob": 1.0, "label": "mischaracterization"}, {"start": 39, "end": 52, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 59, "end": 79, "prob": 1.0, "label": "mischaracterization"}, {"start": 103, "end": 125, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6041", "labels": []}
+{"id": "train-it-6045", "labels": [{"start": 90, "end": 96, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 121, "end": 128, "prob": 0.6666666667, "label": "invention"}, {"start": 135, "end": 144, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6046", "labels": [{"start": 32, "end": 38, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6049", "labels": [{"start": 40, "end": 60, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-6063", "labels": [{"start": 35, "end": 59, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 70, "end": 121, "prob": 1.0, "label": "mischaracterization"}, {"start": 207, "end": 211, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-6077", "labels": []}
+{"id": "train-it-6078", "labels": [{"start": 71, "end": 76, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6080", "labels": [{"start": 51, "end": 52, "prob": 0.6666666667, "label": "ocr"}, {"start": 51, "end": 52, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6089", "labels": [{"start": 0, "end": 3, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 105, "end": 109, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-6097", "labels": [{"start": 0, "end": 35, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6100", "labels": [{"start": 0, "end": 3, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 35, "end": 47, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6101", "labels": [{"start": 0, "end": 3, "prob": 1.0, "label": "mischaracterization"}, {"start": 48, "end": 53, "prob": 0.6666666667, "label": "other"}]}
+{"id": "train-it-6127", "labels": [{"start": 73, "end": 83, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6132", "labels": [{"start": 1044, "end": 1132, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6135", "labels": []}
+{"id": "train-it-6143", "labels": []}
+{"id": "train-it-6156", "labels": []}
+{"id": "train-it-6164", "labels": [{"start": 115, "end": 135, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 154, "end": 169, "prob": 0.3333333333, "label": "invention"}, {"start": 186, "end": 191, "prob": 0.3333333333, "label": "invention"}, {"start": 255, "end": 346, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-6173", "labels": [{"start": 46, "end": 51, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6183", "labels": [{"start": 30, "end": 107, "prob": 1.0, "label": "invention"}, {"start": 135, "end": 205, "prob": 1.0, "label": "invention"}, {"start": 207, "end": 350, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6195", "labels": [{"start": 24, "end": 53, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6199", "labels": [{"start": 22, "end": 29, "prob": 0.3333333333, "label": "other"}]}
+{"id": "train-it-6201", "labels": [{"start": 30, "end": 44, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6209", "labels": []}
+{"id": "train-it-6214", "labels": [{"start": 50, "end": 66, "prob": 1.0, "label": "mischaracterization"}, {"start": 353, "end": 470, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6220", "labels": [{"start": 35, "end": 42, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 67, "end": 78, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6233", "labels": [{"start": 26, "end": 39, "prob": 0.3333333333, "label": "invention"}, {"start": 58, "end": 65, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 98, "end": 107, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 112, "end": 120, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6236", "labels": [{"start": 358, "end": 435, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6251", "labels": [{"start": 78, "end": 94, "prob": 0.6666666667, "label": "invention"}, {"start": 102, "end": 125, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6254", "labels": []}
+{"id": "train-it-6263", "labels": [{"start": 94, "end": 97, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6264", "labels": [{"start": 26, "end": 33, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-6274", "labels": [{"start": 38, "end": 48, "prob": 1.0, "label": "mischaracterization"}, {"start": 83, "end": 92, "prob": 0.6666666667, "label": "invention"}, {"start": 95, "end": 136, "prob": 0.6666666667, "label": "invention"}, {"start": 168, "end": 178, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6283", "labels": [{"start": 60, "end": 65, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 110, "end": 118, "prob": 0.6666666667, "label": "other"}]}
+{"id": "train-it-6293", "labels": [{"start": 8, "end": 20, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-6295", "labels": [{"start": 28, "end": 48, "prob": 1.0, "label": "mischaracterization"}, {"start": 51, "end": 66, "prob": 0.6666666667, "label": "invention"}, {"start": 71, "end": 85, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6320", "labels": [{"start": 29, "end": 40, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6352", "labels": []}
+{"id": "train-it-6362", "labels": [{"start": 151, "end": 179, "prob": 0.6666666667, "label": "invention"}, {"start": 193, "end": 204, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6388", "labels": [{"start": 17, "end": 103, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6393", "labels": [{"start": 0, "end": 56, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6400", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "mischaracterization"}, {"start": 32, "end": 49, "prob": 1.0, "label": "invention"}, {"start": 108, "end": 185, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6409", "labels": []}
+{"id": "train-it-6428", "labels": []}
+{"id": "train-it-6432", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "other"}]}
+{"id": "train-it-6443", "labels": []}
+{"id": "train-it-6448", "labels": []}
+{"id": "train-it-6459", "labels": [{"start": 54, "end": 63, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-6468", "labels": []}
+{"id": "train-it-6491", "labels": []}
+{"id": "train-it-6499", "labels": [{"start": 182, "end": 194, "prob": 1.0, "label": "invention"}, {"start": 201, "end": 214, "prob": 1.0, "label": "invention"}, {"start": 219, "end": 275, "prob": 1.0, "label": "invention"}, {"start": 282, "end": 301, "prob": 1.0, "label": "invention"}, {"start": 398, "end": 403, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6502", "labels": [{"start": 140, "end": 145, "prob": 0.3333333333, "label": "other"}]}
+{"id": "train-it-6508", "labels": [{"start": 0, "end": 2, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 26, "end": 42, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 89, "end": 172, "prob": 0.3333333333, "label": "invention"}, {"start": 181, "end": 208, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 211, "end": 254, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-6514", "labels": []}
+{"id": "train-it-6527", "labels": []}
+{"id": "train-it-6537", "labels": [{"start": 31, "end": 34, "prob": 0.6666666667, "label": "miscounting"}, {"start": 125, "end": 144, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-6539", "labels": [{"start": 0, "end": 29, "prob": 1.0, "label": "mischaracterization"}, {"start": 87, "end": 93, "prob": 1.0, "label": "mischaracterization"}, {"start": 278, "end": 320, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6547", "labels": [{"start": 63, "end": 78, "prob": 1.0, "label": "mischaracterization"}, {"start": 80, "end": 94, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 181, "end": 196, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6550", "labels": []}
+{"id": "train-it-6561", "labels": [{"start": 118, "end": 141, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6574", "labels": []}
+{"id": "train-it-6583", "labels": [{"start": 98, "end": 101, "prob": 0.3333333333, "label": "miscounting"}, {"start": 123, "end": 130, "prob": 1.0, "label": "mischaracterization"}, {"start": 190, "end": 207, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 235, "end": 289, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6609", "labels": [{"start": 101, "end": 109, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 152, "end": 162, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6638", "labels": []}
+{"id": "train-it-6641", "labels": [{"start": 7, "end": 23, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6647", "labels": [{"start": 69, "end": 88, "prob": 1.0, "label": "mischaracterization"}, {"start": 140, "end": 159, "prob": 1.0, "label": "mischaracterization"}, {"start": 214, "end": 232, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6655", "labels": []}
+{"id": "train-it-6668", "labels": [{"start": 42, "end": 49, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-6676", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 43, "end": 50, "prob": 1.0, "label": "mischaracterization"}, {"start": 111, "end": 143, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6689", "labels": [{"start": 132, "end": 137, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6690", "labels": [{"start": 35, "end": 40, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-6695", "labels": [{"start": 85, "end": 92, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6701", "labels": [{"start": 243, "end": 249, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-6703", "labels": [{"start": 0, "end": 25, "prob": 1.0, "label": "mischaracterization"}, {"start": 60, "end": 69, "prob": 0.6666666667, "label": "invention"}, {"start": 134, "end": 149, "prob": 1.0, "label": "mischaracterization"}, {"start": 224, "end": 242, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6708", "labels": [{"start": 20, "end": 26, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 249, "end": 263, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-6718", "labels": []}
+{"id": "train-it-6720", "labels": [{"start": 0, "end": 27, "prob": 1.0, "label": "mischaracterization"}, {"start": 39, "end": 118, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6733", "labels": []}
+{"id": "train-it-6736", "labels": [{"start": 41, "end": 112, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6744", "labels": [{"start": 89, "end": 107, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 123, "end": 146, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6748", "labels": []}
+{"id": "train-it-6763", "labels": []}
+{"id": "train-it-6765", "labels": [{"start": 50, "end": 57, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-6780", "labels": [{"start": 0, "end": 250, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-6783", "labels": [{"start": 0, "end": 51, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6784", "labels": [{"start": 0, "end": 48, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6785", "labels": [{"start": 40, "end": 46, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-6812", "labels": [{"start": 113, "end": 115, "prob": 0.3333333333, "label": "other"}]}
+{"id": "train-it-6838", "labels": []}
+{"id": "train-it-6850", "labels": [{"start": 73, "end": 113, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6852", "labels": []}
+{"id": "train-it-6853", "labels": [{"start": 318, "end": 329, "prob": 0.3333333333, "label": "other"}]}
+{"id": "train-it-6857", "labels": [{"start": 1, "end": 45, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-6859", "labels": [{"start": 0, "end": 48, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 219, "end": 232, "prob": 0.3333333333, "label": "invention"}, {"start": 240, "end": 256, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-6872", "labels": [{"start": 344, "end": 366, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-6902", "labels": []}
+{"id": "train-it-6910", "labels": [{"start": 64, "end": 74, "prob": 0.6666666667, "label": "invention"}, {"start": 82, "end": 90, "prob": 0.6666666667, "label": "invention"}, {"start": 114, "end": 134, "prob": 0.6666666667, "label": "invention"}, {"start": 154, "end": 158, "prob": 0.6666666667, "label": "invention"}, {"start": 171, "end": 185, "prob": 0.6666666667, "label": "invention"}, {"start": 306, "end": 318, "prob": 0.6666666667, "label": "invention"}, {"start": 322, "end": 332, "prob": 0.6666666667, "label": "invention"}, {"start": 400, "end": 459, "prob": 0.6666666667, "label": "invention"}, {"start": 564, "end": 574, "prob": 1.0, "label": "invention"}, {"start": 581, "end": 591, "prob": 1.0, "label": "invention"}, {"start": 581, "end": 603, "prob": 1.0, "label": "invention"}, {"start": 581, "end": 603, "prob": 1.0, "label": "invention"}, {"start": 715, "end": 743, "prob": 0.6666666667, "label": "invention"}, {"start": 782, "end": 800, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 841, "end": 858, "prob": 0.3333333333, "label": "invention"}, {"start": 863, "end": 903, "prob": 0.3333333333, "label": "invention"}, {"start": 928, "end": 952, "prob": 0.6666666667, "label": "invention"}, {"start": 994, "end": 1027, "prob": 0.6666666667, "label": "invention"}, {"start": 1035, "end": 1052, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6911", "labels": []}
+{"id": "train-it-6915", "labels": [{"start": 555, "end": 573, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-6935", "labels": []}
+{"id": "train-it-6943", "labels": [{"start": 152, "end": 158, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-6945", "labels": [{"start": 0, "end": 77, "prob": 0.6666666667, "label": "invention"}, {"start": 89, "end": 182, "prob": 0.6666666667, "label": "invention"}, {"start": 360, "end": 382, "prob": 0.3333333333, "label": "invention"}, {"start": 410, "end": 524, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6946", "labels": [{"start": 97, "end": 110, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 152, "end": 174, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 222, "end": 241, "prob": 0.6666666667, "label": "invention"}, {"start": 293, "end": 298, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 437, "end": 450, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-6948", "labels": []}
+{"id": "train-it-6951", "labels": [{"start": 52, "end": 62, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 130, "end": 160, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 272, "end": 283, "prob": 0.3333333333, "label": "invention"}, {"start": 388, "end": 425, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 513, "end": 523, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-6966", "labels": [{"start": 204, "end": 279, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-6970", "labels": []}
+{"id": "train-it-6972", "labels": [{"start": 274, "end": 453, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-6974", "labels": [{"start": 491, "end": 501, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-6992", "labels": []}
+{"id": "train-it-7000", "labels": [{"start": 343, "end": 356, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-7030", "labels": [{"start": 35, "end": 39, "prob": 0.6666666667, "label": "invention"}, {"start": 66, "end": 91, "prob": 0.6666666667, "label": "invention"}, {"start": 95, "end": 111, "prob": 0.6666666667, "label": "invention"}, {"start": 307, "end": 630, "prob": 0.6666666667, "label": "invention"}, {"start": 764, "end": 849, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-7033", "labels": [{"start": 43, "end": 56, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 43, "end": 56, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 107, "end": 133, "prob": 0.3333333333, "label": "invention"}, {"start": 144, "end": 168, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 605, "end": 628, "prob": 0.3333333333, "label": "invention"}, {"start": 699, "end": 711, "prob": 0.3333333333, "label": "invention"}, {"start": 829, "end": 839, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 845, "end": 855, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 1046, "end": 1059, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-7040", "labels": [{"start": 282, "end": 288, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-7051", "labels": [{"start": 116, "end": 147, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 283, "end": 308, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 363, "end": 404, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 410, "end": 515, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 1077, "end": 1101, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 1126, "end": 1181, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-7055", "labels": [{"start": 275, "end": 337, "prob": 0.6666666667, "label": "invention"}, {"start": 468, "end": 497, "prob": 0.6666666667, "label": "invention"}, {"start": 961, "end": 992, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-7060", "labels": [{"start": 22, "end": 46, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 71, "end": 92, "prob": 1.0, "label": "invention"}, {"start": 112, "end": 133, "prob": 1.0, "label": "invention"}, {"start": 243, "end": 267, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 628, "end": 649, "prob": 1.0, "label": "invention"}, {"start": 708, "end": 727, "prob": 0.3333333333, "label": "invention"}, {"start": 777, "end": 805, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 870, "end": 876, "prob": 0.6666666667, "label": "invention"}, {"start": 935, "end": 956, "prob": 1.0, "label": "invention"}, {"start": 984, "end": 1012, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 1062, "end": 1086, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-7084", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 20, "end": 25, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 419, "end": 444, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-7102", "labels": [{"start": 78, "end": 87, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 159, "end": 168, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 246, "end": 263, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 279, "end": 341, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 476, "end": 481, "prob": 1.0, "label": "mischaracterization"}, {"start": 562, "end": 571, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-7103", "labels": [{"start": 80, "end": 128, "prob": 0.3333333333, "label": "invention"}, {"start": 373, "end": 429, "prob": 0.3333333333, "label": "invention"}, {"start": 458, "end": 618, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-7119", "labels": [{"start": 141, "end": 147, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 481, "end": 487, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-7121", "labels": [{"start": 35, "end": 39, "prob": 1.0, "label": "invention"}, {"start": 67, "end": 192, "prob": 1.0, "label": "invention"}, {"start": 207, "end": 332, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-7139", "labels": [{"start": 434, "end": 518, "prob": 1.0, "label": "invention"}, {"start": 697, "end": 771, "prob": 1.0, "label": "invention"}, {"start": 1054, "end": 1062, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-7152", "labels": [{"start": 63, "end": 80, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 190, "end": 207, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 274, "end": 298, "prob": 0.3333333333, "label": "invention"}, {"start": 323, "end": 339, "prob": 0.6666666667, "label": "invention"}, {"start": 432, "end": 470, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 477, "end": 495, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 670, "end": 709, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 804, "end": 819, "prob": 0.3333333333, "label": "invention"}, {"start": 1184, "end": 1201, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-7156", "labels": [{"start": 29, "end": 43, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-7158", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 21, "end": 57, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 654, "end": 689, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-7170", "labels": [{"start": 217, "end": 239, "prob": 0.6666666667, "label": "ocr"}, {"start": 253, "end": 275, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-7181", "labels": [{"start": 24, "end": 39, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 67, "end": 95, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 123, "end": 137, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 144, "end": 164, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 291, "end": 310, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 504, "end": 523, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 713, "end": 732, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 774, "end": 789, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 915, "end": 930, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-7186", "labels": [{"start": 39, "end": 72, "prob": 1.0, "label": "invention"}, {"start": 97, "end": 114, "prob": 1.0, "label": "invention"}, {"start": 132, "end": 416, "prob": 1.0, "label": "invention"}, {"start": 509, "end": 529, "prob": 0.6666666667, "label": "invention"}, {"start": 619, "end": 650, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-7221", "labels": [{"start": 246, "end": 256, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 346, "end": 358, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 452, "end": 464, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-7231", "labels": [{"start": 280, "end": 317, "prob": 0.6666666667, "label": "invention"}, {"start": 340, "end": 350, "prob": 1.0, "label": "mischaracterization"}, {"start": 467, "end": 490, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 676, "end": 693, "prob": 0.6666666667, "label": "invention"}, {"start": 826, "end": 836, "prob": 1.0, "label": "mischaracterization"}, {"start": 1114, "end": 1131, "prob": 0.6666666667, "label": "invention"}, {"start": 1141, "end": 1151, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-7235", "labels": [{"start": 142, "end": 151, "prob": 0.3333333333, "label": "invention"}, {"start": 519, "end": 526, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-7236", "labels": [{"start": 346, "end": 355, "prob": 0.6666666667, "label": "invention"}, {"start": 367, "end": 377, "prob": 0.6666666667, "label": "invention"}, {"start": 642, "end": 646, "prob": 0.3333333333, "label": "invention"}, {"start": 651, "end": 658, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-7243", "labels": [{"start": 731, "end": 741, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-7246", "labels": [{"start": 237, "end": 259, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-7260", "labels": [{"start": 27, "end": 44, "prob": 1.0, "label": "invention"}, {"start": 59, "end": 188, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 208, "end": 225, "prob": 1.0, "label": "invention"}, {"start": 229, "end": 286, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-7273", "labels": [{"start": 75, "end": 95, "prob": 0.3333333333, "label": "other"}, {"start": 119, "end": 141, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 144, "end": 160, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-7275", "labels": [{"start": 96, "end": 128, "prob": 0.3333333333, "label": "invention"}, {"start": 204, "end": 210, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 264, "end": 270, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 281, "end": 299, "prob": 1.0, "label": "mischaracterization"}, {"start": 318, "end": 325, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 329, "end": 348, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-7276", "labels": [{"start": 355, "end": 359, "prob": 0.6666666667, "label": "ocr"}, {"start": 454, "end": 467, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-7285", "labels": [{"start": 8, "end": 36, "prob": 1.0, "label": "mischaracterization"}, {"start": 99, "end": 109, "prob": 1.0, "label": "invention"}, {"start": 123, "end": 172, "prob": 0.6666666667, "label": "invention"}, {"start": 192, "end": 303, "prob": 1.0, "label": "invention"}, {"start": 351, "end": 427, "prob": 0.6666666667, "label": "invention"}, {"start": 440, "end": 464, "prob": 1.0, "label": "mischaracterization"}, {"start": 477, "end": 519, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-7291", "labels": [{"start": 14, "end": 37, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-7294", "labels": [{"start": 514, "end": 526, "prob": 0.6666666667, "label": "invention"}, {"start": 534, "end": 551, "prob": 0.6666666667, "label": "invention"}, {"start": 586, "end": 590, "prob": 0.6666666667, "label": "invention"}, {"start": 640, "end": 748, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-7303", "labels": [{"start": 268, "end": 326, "prob": 0.3333333333, "label": "invention"}, {"start": 440, "end": 451, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-7308", "labels": [{"start": 142, "end": 151, "prob": 1.0, "label": "mischaracterization"}, {"start": 235, "end": 282, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-14212", "labels": [{"start": 36, "end": 47, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14217", "labels": []}
+{"id": "train-it-14222", "labels": [{"start": 50, "end": 60, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14224", "labels": [{"start": 76, "end": 84, "prob": 0.3333333333, "label": "ocr"}, {"start": 180, "end": 193, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-14227", "labels": [{"start": 37, "end": 61, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 83, "end": 97, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-14240", "labels": [{"start": 135, "end": 155, "prob": 0.3333333333, "label": "ocr"}, {"start": 207, "end": 211, "prob": 1.0, "label": "invention"}, {"start": 381, "end": 385, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14249", "labels": [{"start": 36, "end": 44, "prob": 1.0, "label": "ocr"}, {"start": 112, "end": 117, "prob": 0.6666666667, "label": "ocr"}, {"start": 144, "end": 152, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14252", "labels": [{"start": 3, "end": 30, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 34, "end": 50, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-14261", "labels": [{"start": 0, "end": 89, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14269", "labels": [{"start": 72, "end": 103, "prob": 0.6666666667, "label": "invention"}, {"start": 163, "end": 179, "prob": 0.6666666667, "label": "invention"}, {"start": 227, "end": 262, "prob": 0.6666666667, "label": "invention"}, {"start": 301, "end": 376, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-14271", "labels": [{"start": 85, "end": 93, "prob": 0.3333333333, "label": "ocr"}, {"start": 118, "end": 131, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-14272", "labels": [{"start": 52, "end": 63, "prob": 0.6666666667, "label": "invention"}, {"start": 84, "end": 90, "prob": 0.6666666667, "label": "invention"}, {"start": 112, "end": 120, "prob": 0.3333333333, "label": "invention"}, {"start": 132, "end": 299, "prob": 0.6666666667, "label": "invention"}, {"start": 339, "end": 435, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-14280", "labels": [{"start": 72, "end": 88, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14285", "labels": [{"start": 36, "end": 44, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14296", "labels": [{"start": 48, "end": 59, "prob": 0.6666666667, "label": "ocr"}, {"start": 77, "end": 104, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 108, "end": 119, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14301", "labels": [{"start": 36, "end": 49, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14304", "labels": [{"start": 3, "end": 30, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 34, "end": 47, "prob": 1.0, "label": "invention"}, {"start": 54, "end": 84, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-14310", "labels": [{"start": 3, "end": 46, "prob": 1.0, "label": "mischaracterization"}, {"start": 50, "end": 60, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14326", "labels": [{"start": 84, "end": 92, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14338", "labels": [{"start": 17, "end": 31, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-14345", "labels": [{"start": 58, "end": 69, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14349", "labels": [{"start": 36, "end": 44, "prob": 0.6666666667, "label": "ocr"}, {"start": 97, "end": 108, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 132, "end": 151, "prob": 0.6666666667, "label": "ocr"}, {"start": 213, "end": 221, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14356", "labels": [{"start": 36, "end": 49, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14365", "labels": [{"start": 50, "end": 58, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-14370", "labels": [{"start": 36, "end": 44, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14379", "labels": [{"start": 50, "end": 71, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14389", "labels": [{"start": 0, "end": 28, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14391", "labels": [{"start": 258, "end": 259, "prob": 0.6666666667, "label": "ocr"}, {"start": 268, "end": 285, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14396", "labels": [{"start": 13, "end": 40, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 45, "end": 61, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-14397", "labels": [{"start": 0, "end": 505, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14400", "labels": [{"start": 70, "end": 78, "prob": 0.3333333333, "label": "ocr"}, {"start": 130, "end": 143, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-14403", "labels": [{"start": 25, "end": 52, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 56, "end": 69, "prob": 0.6666666667, "label": "invention"}, {"start": 56, "end": 69, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-14404", "labels": [{"start": 81, "end": 96, "prob": 0.6666666667, "label": "ocr"}, {"start": 137, "end": 189, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14411", "labels": [{"start": 121, "end": 176, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-14423", "labels": [{"start": 32, "end": 40, "prob": 0.3333333333, "label": "ocr"}]}
+{"id": "train-it-14439", "labels": [{"start": 6, "end": 13, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 146, "end": 153, "prob": 0.6666666667, "label": "ocr"}, {"start": 302, "end": 309, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-14453", "labels": [{"start": 36, "end": 54, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14456", "labels": [{"start": 39, "end": 48, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14459", "labels": [{"start": 0, "end": 4, "prob": 1.0, "label": "ocr"}]}
+{"id": "train-it-14489", "labels": [{"start": 6, "end": 17, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 37, "end": 40, "prob": 0.3333333333, "label": "miscounting"}]}
+{"id": "train-it-14501", "labels": [{"start": 19, "end": 22, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-14508", "labels": [{"start": 116, "end": 127, "prob": 1.0, "label": "miscounting"}, {"start": 139, "end": 161, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14529", "labels": [{"start": 38, "end": 41, "prob": 0.3333333333, "label": "miscounting"}]}
+{"id": "train-it-14533", "labels": []}
+{"id": "train-it-14540", "labels": [{"start": 23, "end": 29, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-14605", "labels": [{"start": 74, "end": 83, "prob": 0.3333333333, "label": "invention"}, {"start": 135, "end": 144, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-14609", "labels": []}
+{"id": "train-it-14630", "labels": [{"start": 30, "end": 33, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-14634", "labels": []}
+{"id": "train-it-14663", "labels": [{"start": 4, "end": 11, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-14701", "labels": [{"start": 210, "end": 232, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 280, "end": 303, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14706", "labels": [{"start": 203, "end": 216, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-14725", "labels": [{"start": 8, "end": 11, "prob": 0.6666666667, "label": "miscounting"}, {"start": 90, "end": 107, "prob": 0.6666666667, "label": "ocr"}, {"start": 111, "end": 150, "prob": 0.6666666667, "label": "invention"}, {"start": 152, "end": 224, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-14745", "labels": [{"start": 74, "end": 79, "prob": 0.3333333333, "label": "miscounting"}, {"start": 376, "end": 381, "prob": 0.3333333333, "label": "miscounting"}]}
+{"id": "train-it-14748", "labels": [{"start": 327, "end": 337, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-14749", "labels": [{"start": 181, "end": 253, "prob": 0.6666666667, "label": "invention"}, {"start": 293, "end": 303, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-14757", "labels": [{"start": 141, "end": 228, "prob": 0.6666666667, "label": "invention"}, {"start": 241, "end": 336, "prob": 0.6666666667, "label": "invention"}, {"start": 349, "end": 427, "prob": 0.6666666667, "label": "invention"}, {"start": 453, "end": 467, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-14758", "labels": []}
+{"id": "train-it-14768", "labels": []}
+{"id": "train-it-14770", "labels": []}
+{"id": "train-it-14791", "labels": []}
+{"id": "train-it-14798", "labels": [{"start": 25, "end": 69, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-14803", "labels": []}
+{"id": "train-it-14809", "labels": [{"start": 22, "end": 66, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-14827", "labels": [{"start": 34, "end": 53, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-14837", "labels": []}
+{"id": "train-it-14859", "labels": [{"start": 90, "end": 95, "prob": 0.3333333333, "label": "miscounting"}, {"start": 449, "end": 454, "prob": 0.3333333333, "label": "miscounting"}]}
+{"id": "train-it-14862", "labels": []}
+{"id": "train-it-14864", "labels": [{"start": 37, "end": 43, "prob": 0.6666666667, "label": "miscounting"}, {"start": 271, "end": 321, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14870", "labels": [{"start": 176, "end": 269, "prob": 0.6666666667, "label": "invention"}, {"start": 282, "end": 358, "prob": 0.6666666667, "label": "invention"}, {"start": 371, "end": 446, "prob": 0.6666666667, "label": "invention"}, {"start": 470, "end": 471, "prob": 0.6666666667, "label": "miscounting"}, {"start": 531, "end": 532, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-14873", "labels": [{"start": 39, "end": 42, "prob": 0.6666666667, "label": "miscounting"}, {"start": 183, "end": 186, "prob": 0.6666666667, "label": "miscounting"}, {"start": 273, "end": 274, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-14880", "labels": [{"start": 95, "end": 108, "prob": 0.6666666667, "label": "miscounting"}, {"start": 426, "end": 439, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-14881", "labels": []}
+{"id": "train-it-14899", "labels": [{"start": 35, "end": 40, "prob": 0.3333333333, "label": "miscounting"}, {"start": 77, "end": 110, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 150, "end": 239, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 241, "end": 306, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-14905", "labels": [{"start": 0, "end": 52, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-14911", "labels": [{"start": 27, "end": 36, "prob": 1.0, "label": "miscounting"}, {"start": 71, "end": 103, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14925", "labels": [{"start": 0, "end": 32, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14927", "labels": [{"start": 0, "end": 32, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14933", "labels": [{"start": 324, "end": 334, "prob": 0.6666666667, "label": "invention"}, {"start": 354, "end": 364, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-14940", "labels": [{"start": 73, "end": 93, "prob": 1.0, "label": "invention"}, {"start": 194, "end": 225, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-14952", "labels": [{"start": 293, "end": 313, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-14954", "labels": []}
+{"id": "train-it-14982", "labels": []}
+{"id": "train-it-14983", "labels": [{"start": 43, "end": 55, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-14984", "labels": [{"start": 0, "end": 164, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14985", "labels": [{"start": 30, "end": 42, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-14998", "labels": [{"start": 23, "end": 38, "prob": 1.0, "label": "invention"}, {"start": 45, "end": 103, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15002", "labels": [{"start": 0, "end": 30, "prob": 0.6666666667, "label": "other"}, {"start": 105, "end": 129, "prob": 0.6666666667, "label": "invention"}, {"start": 131, "end": 194, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-15007", "labels": [{"start": 8, "end": 37, "prob": 1.0, "label": "miscounting"}]}
+{"id": "train-it-15013", "labels": [{"start": 358, "end": 381, "prob": 1.0, "label": "invention"}, {"start": 402, "end": 422, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15024", "labels": [{"start": 0, "end": 99, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15036", "labels": [{"start": 20, "end": 126, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15046", "labels": [{"start": 0, "end": 4, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-15048", "labels": [{"start": 151, "end": 235, "prob": 0.6666666667, "label": "invention"}, {"start": 256, "end": 337, "prob": 0.6666666667, "label": "invention"}, {"start": 481, "end": 494, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15055", "labels": [{"start": 66, "end": 220, "prob": 1.0, "label": "invention"}, {"start": 225, "end": 380, "prob": 1.0, "label": "invention"}, {"start": 385, "end": 459, "prob": 1.0, "label": "invention"}, {"start": 464, "end": 612, "prob": 1.0, "label": "invention"}, {"start": 617, "end": 713, "prob": 1.0, "label": "invention"}, {"start": 718, "end": 854, "prob": 1.0, "label": "invention"}, {"start": 859, "end": 986, "prob": 1.0, "label": "invention"}, {"start": 991, "end": 1079, "prob": 1.0, "label": "invention"}, {"start": 1084, "end": 1258, "prob": 1.0, "label": "invention"}, {"start": 1264, "end": 1369, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15083", "labels": [{"start": 0, "end": 132, "prob": 1.0, "label": "other"}, {"start": 134, "end": 297, "prob": 1.0, "label": "other"}, {"start": 299, "end": 423, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-15085", "labels": [{"start": 0, "end": 41, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15116", "labels": []}
+{"id": "train-it-15120", "labels": [{"start": 40, "end": 58, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15123", "labels": [{"start": 0, "end": 289, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15136", "labels": [{"start": 40, "end": 58, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 65, "end": 73, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15139", "labels": [{"start": 128, "end": 153, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15141", "labels": [{"start": 21, "end": 25, "prob": 1.0, "label": "invention"}, {"start": 29, "end": 34, "prob": 1.0, "label": "invention"}, {"start": 40, "end": 44, "prob": 1.0, "label": "invention"}, {"start": 48, "end": 53, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15144", "labels": [{"start": 0, "end": 37, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15167", "labels": [{"start": 24, "end": 34, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15168", "labels": [{"start": 25, "end": 44, "prob": 1.0, "label": "invention"}, {"start": 86, "end": 122, "prob": 0.6666666667, "label": "invention"}, {"start": 252, "end": 266, "prob": 0.6666666667, "label": "invention"}, {"start": 453, "end": 569, "prob": 0.6666666667, "label": "invention"}, {"start": 572, "end": 725, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15171", "labels": [{"start": 176, "end": 201, "prob": 0.6666666667, "label": "invention"}, {"start": 312, "end": 320, "prob": 1.0, "label": "invention"}, {"start": 324, "end": 380, "prob": 1.0, "label": "invention"}, {"start": 419, "end": 427, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15180", "labels": []}
+{"id": "train-it-15181", "labels": [{"start": 105, "end": 117, "prob": 0.3333333333, "label": "miscounting"}, {"start": 450, "end": 456, "prob": 0.6666666667, "label": "ocr"}]}
+{"id": "train-it-15185", "labels": [{"start": 0, "end": 107, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15202", "labels": [{"start": 25, "end": 58, "prob": 1.0, "label": "invention"}, {"start": 66, "end": 97, "prob": 0.6666666667, "label": "invention"}, {"start": 116, "end": 203, "prob": 1.0, "label": "invention"}, {"start": 218, "end": 318, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15203", "labels": [{"start": 54, "end": 59, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15204", "labels": [{"start": 0, "end": 3, "prob": 1.0, "label": "mischaracterization"}, {"start": 7, "end": 73, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15205", "labels": [{"start": 0, "end": 128, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15228", "labels": [{"start": 0, "end": 70, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15236", "labels": []}
+{"id": "train-it-15248", "labels": [{"start": 25, "end": 31, "prob": 1.0, "label": "invention"}, {"start": 179, "end": 185, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15250", "labels": []}
+{"id": "train-it-15252", "labels": [{"start": 148, "end": 171, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15260", "labels": [{"start": 29, "end": 37, "prob": 1.0, "label": "invention"}, {"start": 83, "end": 154, "prob": 1.0, "label": "invention"}, {"start": 166, "end": 250, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15287", "labels": [{"start": 0, "end": 153, "prob": 1.0, "label": "invention"}, {"start": 196, "end": 203, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15290", "labels": [{"start": 30, "end": 54, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 186, "end": 193, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 200, "end": 269, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15301", "labels": [{"start": 165, "end": 172, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 243, "end": 305, "prob": 1.0, "label": "mischaracterization"}, {"start": 375, "end": 382, "prob": 1.0, "label": "mischaracterization"}, {"start": 411, "end": 435, "prob": 0.6666666667, "label": "invention"}, {"start": 472, "end": 473, "prob": 0.6666666667, "label": "invention"}, {"start": 478, "end": 483, "prob": 0.6666666667, "label": "invention"}, {"start": 674, "end": 679, "prob": 0.6666666667, "label": "invention"}, {"start": 718, "end": 725, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 824, "end": 829, "prob": 0.6666666667, "label": "invention"}, {"start": 947, "end": 952, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15302", "labels": [{"start": 85, "end": 92, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15303", "labels": [{"start": 0, "end": 26, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15318", "labels": [{"start": 0, "end": 108, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15343", "labels": [{"start": 0, "end": 10, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15351", "labels": [{"start": 13, "end": 28, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15358", "labels": [{"start": 0, "end": 49, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15370", "labels": [{"start": 16, "end": 36, "prob": 0.6666666667, "label": "miscounting"}, {"start": 38, "end": 70, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15374", "labels": [{"start": 15, "end": 27, "prob": 1.0, "label": "invention"}, {"start": 59, "end": 89, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15376", "labels": [{"start": 0, "end": 31, "prob": 1.0, "label": "invention"}, {"start": 33, "end": 312, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15378", "labels": [{"start": 48, "end": 64, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15384", "labels": [{"start": 29, "end": 37, "prob": 1.0, "label": "invention"}, {"start": 80, "end": 137, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15401", "labels": [{"start": 3, "end": 10, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 57, "end": 98, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-15403", "labels": [{"start": 428, "end": 440, "prob": 1.0, "label": "invention"}, {"start": 680, "end": 692, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15408", "labels": [{"start": 62, "end": 69, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15409", "labels": [{"start": 0, "end": 32, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15414", "labels": [{"start": 0, "end": 41, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-15419", "labels": [{"start": 14, "end": 50, "prob": 0.6666666667, "label": "invention"}, {"start": 69, "end": 85, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15452", "labels": [{"start": 133, "end": 139, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15465", "labels": []}
+{"id": "train-it-15481", "labels": [{"start": 43, "end": 49, "prob": 1.0, "label": "invention"}, {"start": 214, "end": 235, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15486", "labels": [{"start": 11, "end": 17, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 52, "end": 66, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15500", "labels": [{"start": 56, "end": 108, "prob": 1.0, "label": "invention"}, {"start": 110, "end": 208, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15509", "labels": [{"start": 99, "end": 118, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15516", "labels": [{"start": 25, "end": 48, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15518", "labels": [{"start": 0, "end": 329, "prob": 1.0, "label": "invention"}, {"start": 404, "end": 417, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15519", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "invention"}, {"start": 23, "end": 37, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15522", "labels": []}
+{"id": "train-it-15534", "labels": [{"start": 63, "end": 144, "prob": 0.6666666667, "label": "invention"}, {"start": 146, "end": 237, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15555", "labels": [{"start": 206, "end": 245, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15558", "labels": [{"start": 0, "end": 26, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15563", "labels": [{"start": 153, "end": 157, "prob": 0.6666666667, "label": "invention"}, {"start": 221, "end": 232, "prob": 0.3333333333, "label": "invention"}, {"start": 235, "end": 267, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-15569", "labels": [{"start": 23, "end": 32, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 117, "end": 137, "prob": 0.3333333333, "label": "invention"}, {"start": 391, "end": 426, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15573", "labels": [{"start": 4, "end": 13, "prob": 1.0, "label": "invention"}, {"start": 26, "end": 36, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15577", "labels": [{"start": 0, "end": 34, "prob": 1.0, "label": "invention"}, {"start": 72, "end": 76, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15581", "labels": [{"start": 36, "end": 66, "prob": 1.0, "label": "mischaracterization"}, {"start": 68, "end": 94, "prob": 1.0, "label": "mischaracterization"}, {"start": 96, "end": 188, "prob": 1.0, "label": "invention"}, {"start": 190, "end": 349, "prob": 0.3333333333, "label": "invention"}, {"start": 389, "end": 436, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15591", "labels": [{"start": 107, "end": 121, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 161, "end": 215, "prob": 0.6666666667, "label": "invention"}, {"start": 236, "end": 268, "prob": 0.6666666667, "label": "invention"}, {"start": 424, "end": 429, "prob": 1.0, "label": "invention"}, {"start": 424, "end": 429, "prob": 1.0, "label": "ocr"}, {"start": 433, "end": 468, "prob": 1.0, "label": "invention"}, {"start": 507, "end": 512, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15602", "labels": [{"start": 46, "end": 53, "prob": 1.0, "label": "invention"}, {"start": 230, "end": 233, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-15605", "labels": [{"start": 22, "end": 43, "prob": 1.0, "label": "invention"}, {"start": 71, "end": 108, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15621", "labels": [{"start": 112, "end": 117, "prob": 0.3333333333, "label": "other"}]}
+{"id": "train-it-15633", "labels": [{"start": 0, "end": 480, "prob": 1.0, "label": "other"}]}
+{"id": "train-it-15646", "labels": [{"start": 22, "end": 54, "prob": 1.0, "label": "invention"}, {"start": 22, "end": 54, "prob": 1.0, "label": "ocr"}, {"start": 83, "end": 185, "prob": 1.0, "label": "invention"}, {"start": 335, "end": 357, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15679", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "other"}, {"start": 94, "end": 127, "prob": 0.3333333333, "label": "invention"}, {"start": 729, "end": 777, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-15684", "labels": [{"start": 61, "end": 117, "prob": 0.6666666667, "label": "invention"}, {"start": 144, "end": 263, "prob": 1.0, "label": "invention"}, {"start": 274, "end": 280, "prob": 1.0, "label": "invention"}, {"start": 284, "end": 313, "prob": 1.0, "label": "invention"}, {"start": 363, "end": 369, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15706", "labels": [{"start": 71, "end": 99, "prob": 1.0, "label": "invention"}, {"start": 163, "end": 244, "prob": 0.6666666667, "label": "invention"}, {"start": 296, "end": 320, "prob": 0.6666666667, "label": "invention"}, {"start": 322, "end": 375, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15721", "labels": []}
+{"id": "train-it-15735", "labels": [{"start": 58, "end": 64, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 174, "end": 180, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 310, "end": 316, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 358, "end": 364, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 481, "end": 487, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 498, "end": 504, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 549, "end": 555, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 660, "end": 666, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 677, "end": 683, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 728, "end": 734, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 839, "end": 845, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 856, "end": 862, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 907, "end": 913, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1018, "end": 1024, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1035, "end": 1041, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1086, "end": 1092, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1197, "end": 1203, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1214, "end": 1220, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1265, "end": 1271, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1376, "end": 1382, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1393, "end": 1399, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1444, "end": 1450, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1555, "end": 1561, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1572, "end": 1578, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1623, "end": 1629, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1734, "end": 1740, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1751, "end": 1757, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1802, "end": 1808, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1913, "end": 1919, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1930, "end": 1936, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 1981, "end": 1987, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15737", "labels": [{"start": 0, "end": 61, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15772", "labels": [{"start": 0, "end": 34, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 46, "end": 62, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-15774", "labels": [{"start": 64, "end": 87, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 110, "end": 127, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15775", "labels": []}
+{"id": "train-it-15780", "labels": [{"start": 130, "end": 228, "prob": 1.0, "label": "invention"}, {"start": 269, "end": 391, "prob": 0.6666666667, "label": "invention"}, {"start": 468, "end": 477, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 484, "end": 497, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15784", "labels": []}
+{"id": "train-it-15788", "labels": []}
+{"id": "train-it-15819", "labels": [{"start": 0, "end": 12, "prob": 0.3333333333, "label": "other"}, {"start": 20, "end": 24, "prob": 0.3333333333, "label": "miscounting"}, {"start": 57, "end": 65, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 69, "end": 75, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 149, "end": 157, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-15822", "labels": [{"start": 498, "end": 509, "prob": 0.3333333333, "label": "invention"}, {"start": 512, "end": 531, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-15831", "labels": [{"start": 29, "end": 44, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 72, "end": 100, "prob": 0.3333333333, "label": "invention"}, {"start": 143, "end": 151, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 204, "end": 253, "prob": 1.0, "label": "invention"}, {"start": 422, "end": 431, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 451, "end": 457, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-15836", "labels": [{"start": 0, "end": 45, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15839", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "mischaracterization"}, {"start": 41, "end": 61, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15849", "labels": [{"start": 37, "end": 43, "prob": 1.0, "label": "invention"}, {"start": 51, "end": 87, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15853", "labels": [{"start": 0, "end": 40, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15864", "labels": [{"start": 0, "end": 32, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 81, "end": 105, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-15867", "labels": [{"start": 18, "end": 23, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-15868", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "invention"}, {"start": 47, "end": 54, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15870", "labels": [{"start": 0, "end": 49, "prob": 1.0, "label": "invention"}, {"start": 95, "end": 118, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 129, "end": 238, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15880", "labels": [{"start": 36, "end": 40, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15888", "labels": [{"start": 108, "end": 213, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15890", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "invention"}, {"start": 28, "end": 39, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15896", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 40, "end": 47, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 150, "end": 161, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15900", "labels": []}
+{"id": "train-it-15903", "labels": [{"start": 40, "end": 53, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 72, "end": 88, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 221, "end": 231, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 280, "end": 317, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-15904", "labels": [{"start": 118, "end": 178, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15905", "labels": [{"start": 0, "end": 2, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 55, "end": 62, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-15912", "labels": [{"start": 55, "end": 67, "prob": 1.0, "label": "mischaracterization"}, {"start": 69, "end": 113, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15913", "labels": [{"start": 59, "end": 71, "prob": 0.6666666667, "label": "invention"}, {"start": 126, "end": 137, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15916", "labels": []}
+{"id": "train-it-15923", "labels": [{"start": 223, "end": 241, "prob": 0.6666666667, "label": "invention"}, {"start": 422, "end": 512, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-15925", "labels": [{"start": 0, "end": 401, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15932", "labels": []}
+{"id": "train-it-15934", "labels": [{"start": 0, "end": 111, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-15946", "labels": [{"start": 81, "end": 98, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 160, "end": 176, "prob": 0.6666666667, "label": "invention"}, {"start": 181, "end": 255, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-15948", "labels": []}
+{"id": "train-it-15953", "labels": [{"start": 52, "end": 69, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 75, "end": 103, "prob": 1.0, "label": "invention"}, {"start": 106, "end": 143, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-15963", "labels": []}
+{"id": "train-it-15968", "labels": [{"start": 0, "end": 33, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-15984", "labels": [{"start": 0, "end": 63, "prob": 0.6666666667, "label": "invention"}, {"start": 74, "end": 125, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-16000", "labels": [{"start": 36, "end": 43, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-16010", "labels": [{"start": 14, "end": 39, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 212, "end": 220, "prob": 0.3333333333, "label": "mischaracterization"}]}
+{"id": "train-it-16029", "labels": [{"start": 47, "end": 72, "prob": 0.6666666667, "label": "invention"}, {"start": 141, "end": 154, "prob": 0.3333333333, "label": "invention"}, {"start": 176, "end": 196, "prob": 0.3333333333, "label": "invention"}]}
+{"id": "train-it-16030", "labels": []}
+{"id": "train-it-16038", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "mischaracterization"}, {"start": 32, "end": 38, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-16052", "labels": []}
+{"id": "train-it-16057", "labels": []}
+{"id": "train-it-16067", "labels": [{"start": 37, "end": 50, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 68, "end": 89, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 217, "end": 233, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-16082", "labels": [{"start": 0, "end": 36, "prob": 1.0, "label": "mischaracterization"}, {"start": 37, "end": 90, "prob": 1.0, "label": "miscounting"}, {"start": 92, "end": 205, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-16097", "labels": [{"start": 44, "end": 51, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-16111", "labels": [{"start": 20, "end": 23, "prob": 1.0, "label": "miscounting"}, {"start": 31, "end": 110, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-16115", "labels": [{"start": 39, "end": 51, "prob": 0.6666666667, "label": "miscounting"}, {"start": 68, "end": 76, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 97, "end": 113, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 208, "end": 232, "prob": 1.0, "label": "invention"}, {"start": 239, "end": 242, "prob": 0.6666666667, "label": "miscounting"}, {"start": 257, "end": 258, "prob": 0.6666666667, "label": "miscounting"}]}
+{"id": "train-it-16123", "labels": []}
+{"id": "train-it-16129", "labels": [{"start": 56, "end": 61, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 235, "end": 246, "prob": 0.3333333333, "label": "mischaracterization"}, {"start": 254, "end": 262, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-16142", "labels": [{"start": 34, "end": 40, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-16144", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "invention"}, {"start": 49, "end": 55, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-16150", "labels": [{"start": 60, "end": 74, "prob": 1.0, "label": "mischaracterization"}, {"start": 92, "end": 110, "prob": 1.0, "label": "mischaracterization"}, {"start": 140, "end": 152, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 208, "end": 209, "prob": 0.3333333333, "label": "other"}, {"start": 236, "end": 242, "prob": 0.3333333333, "label": "other"}, {"start": 343, "end": 355, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-16152", "labels": [{"start": 83, "end": 136, "prob": 1.0, "label": "invention"}]}
+{"id": "train-it-16154", "labels": [{"start": 123, "end": 139, "prob": 1.0, "label": "mischaracterization"}, {"start": 141, "end": 235, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 271, "end": 317, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-16161", "labels": [{"start": 172, "end": 218, "prob": 0.6666666667, "label": "mischaracterization"}, {"start": 411, "end": 466, "prob": 0.6666666667, "label": "invention"}, {"start": 483, "end": 491, "prob": 0.6666666667, "label": "invention"}]}
+{"id": "train-it-16162", "labels": [{"start": 46, "end": 50, "prob": 0.6666666667, "label": "mischaracterization"}]}
+{"id": "train-it-16173", "labels": [{"start": 0, "end": 2, "prob": 1.0, "label": "invention"}, {"start": 18, "end": 29, "prob": 1.0, "label": "mischaracterization"}]}
+{"id": "train-it-16176", "labels": []}
