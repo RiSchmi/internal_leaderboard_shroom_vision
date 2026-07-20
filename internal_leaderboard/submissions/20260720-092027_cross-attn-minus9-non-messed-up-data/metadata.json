@@ -1,0 +1,12 @@
+{
+  "name": "Cross_attn minus9 non-messed up data",
+  "short_description": "Same as before, now with non-messed up data",
+  "long_description": "Same as prior submissions",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-20 09:20:27 UTC"
+}
