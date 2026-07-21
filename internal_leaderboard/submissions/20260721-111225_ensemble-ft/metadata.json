@@ -1,0 +1,12 @@
+{
+  "name": "Ensemble-ft",
+  "short_description": "ensemble based votinh",
+  "long_description": "min vote 1",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-21 11:12:25 UTC"
+}
