@@ -1,0 +1,12 @@
+{
+  "name": "Hallushift2++ (probe baseline)",
+  "short_description": "Hallushift++ with LLaVa & RF-classifier (all features)",
+  "long_description": "Adjusted baseline to consider the attention based features previously dropped.",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-21 06:02:40 UTC"
+}
