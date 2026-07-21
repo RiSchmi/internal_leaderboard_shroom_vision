@@ -1,0 +1,12 @@
+{
+  "name": "Multi stage MLP",
+  "short_description": "Same, but with mlp",
+  "long_description": "The head looks like:\nnn.Sequential(nn.Linear(model_dim, 4*model_dim), nn.GELU(), nn.Dropout(dropout), nn.Linear(4*model_dim, num_types))",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-21 13:36:15 UTC"
+}
