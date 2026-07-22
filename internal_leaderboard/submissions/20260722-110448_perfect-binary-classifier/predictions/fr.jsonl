@@ -1,0 +1,533 @@
+{"id": "train-fr-2739", "labels": [{"start": 0, "end": 328, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2747", "labels": [{"start": 0, "end": 99, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2751", "labels": [{"start": 0, "end": 880, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2801", "labels": [{"start": 0, "end": 151, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2828", "labels": []}
+{"id": "train-fr-2846", "labels": []}
+{"id": "train-fr-2852", "labels": []}
+{"id": "train-fr-2858", "labels": []}
+{"id": "train-fr-2866", "labels": [{"start": 0, "end": 251, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2868", "labels": [{"start": 0, "end": 396, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2874", "labels": []}
+{"id": "train-fr-2875", "labels": [{"start": 0, "end": 256, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2878", "labels": [{"start": 0, "end": 139, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2879", "labels": [{"start": 0, "end": 68, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2881", "labels": []}
+{"id": "train-fr-2886", "labels": []}
+{"id": "train-fr-2887", "labels": [{"start": 0, "end": 54, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2891", "labels": [{"start": 0, "end": 64, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2895", "labels": [{"start": 0, "end": 309, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2904", "labels": [{"start": 0, "end": 165, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2915", "labels": [{"start": 0, "end": 677, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2916", "labels": []}
+{"id": "train-fr-2926", "labels": [{"start": 0, "end": 148, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2936", "labels": []}
+{"id": "train-fr-2949", "labels": [{"start": 0, "end": 151, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2953", "labels": [{"start": 0, "end": 377, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2963", "labels": []}
+{"id": "train-fr-2974", "labels": [{"start": 0, "end": 199, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2979", "labels": [{"start": 0, "end": 182, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2982", "labels": [{"start": 0, "end": 233, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2985", "labels": [{"start": 0, "end": 163, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2993", "labels": [{"start": 0, "end": 157, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2996", "labels": [{"start": 0, "end": 117, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-2999", "labels": [{"start": 0, "end": 210, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3007", "labels": []}
+{"id": "train-fr-3010", "labels": []}
+{"id": "train-fr-3026", "labels": [{"start": 0, "end": 136, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3031", "labels": []}
+{"id": "train-fr-3033", "labels": [{"start": 0, "end": 290, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3040", "labels": [{"start": 0, "end": 169, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3062", "labels": []}
+{"id": "train-fr-3103", "labels": []}
+{"id": "train-fr-3108", "labels": [{"start": 0, "end": 465, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3118", "labels": [{"start": 0, "end": 250, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3139", "labels": []}
+{"id": "train-fr-3141", "labels": []}
+{"id": "train-fr-3150", "labels": [{"start": 0, "end": 298, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3158", "labels": []}
+{"id": "train-fr-3165", "labels": [{"start": 0, "end": 217, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3167", "labels": []}
+{"id": "train-fr-3172", "labels": [{"start": 0, "end": 199, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3187", "labels": []}
+{"id": "train-fr-3193", "labels": [{"start": 0, "end": 113, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3196", "labels": [{"start": 0, "end": 208, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3197", "labels": []}
+{"id": "train-fr-3205", "labels": []}
+{"id": "train-fr-3209", "labels": []}
+{"id": "train-fr-3211", "labels": [{"start": 0, "end": 32, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3214", "labels": []}
+{"id": "train-fr-3232", "labels": [{"start": 0, "end": 585, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3249", "labels": [{"start": 0, "end": 495, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3255", "labels": [{"start": 0, "end": 165, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3257", "labels": [{"start": 0, "end": 202, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3266", "labels": [{"start": 0, "end": 97, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3267", "labels": []}
+{"id": "train-fr-3300", "labels": [{"start": 0, "end": 83, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3312", "labels": []}
+{"id": "train-fr-3339", "labels": []}
+{"id": "train-fr-3340", "labels": []}
+{"id": "train-fr-3344", "labels": [{"start": 0, "end": 54, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3356", "labels": [{"start": 0, "end": 118, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3361", "labels": []}
+{"id": "train-fr-3370", "labels": [{"start": 0, "end": 230, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3376", "labels": [{"start": 0, "end": 152, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3398", "labels": [{"start": 0, "end": 103, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3407", "labels": []}
+{"id": "train-fr-3421", "labels": [{"start": 0, "end": 203, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3426", "labels": [{"start": 0, "end": 60, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3428", "labels": [{"start": 0, "end": 69, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3429", "labels": [{"start": 0, "end": 279, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3431", "labels": []}
+{"id": "train-fr-3432", "labels": [{"start": 0, "end": 88, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3437", "labels": [{"start": 0, "end": 38, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3440", "labels": [{"start": 0, "end": 435, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3443", "labels": [{"start": 0, "end": 126, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3452", "labels": [{"start": 0, "end": 69, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3461", "labels": []}
+{"id": "train-fr-3462", "labels": [{"start": 0, "end": 202, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3472", "labels": [{"start": 0, "end": 368, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3488", "labels": [{"start": 0, "end": 173, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3491", "labels": [{"start": 0, "end": 76, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3497", "labels": []}
+{"id": "train-fr-3498", "labels": [{"start": 0, "end": 116, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3514", "labels": [{"start": 0, "end": 1004, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3540", "labels": [{"start": 0, "end": 79, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3555", "labels": [{"start": 0, "end": 30, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3556", "labels": [{"start": 0, "end": 116, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3563", "labels": []}
+{"id": "train-fr-3583", "labels": []}
+{"id": "train-fr-3596", "labels": [{"start": 0, "end": 38, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3602", "labels": []}
+{"id": "train-fr-3614", "labels": [{"start": 0, "end": 196, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3629", "labels": [{"start": 0, "end": 45, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3633", "labels": []}
+{"id": "train-fr-3671", "labels": [{"start": 0, "end": 60, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3677", "labels": [{"start": 0, "end": 459, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3687", "labels": [{"start": 0, "end": 413, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3692", "labels": [{"start": 0, "end": 240, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3704", "labels": [{"start": 0, "end": 392, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3706", "labels": [{"start": 0, "end": 593, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3708", "labels": [{"start": 0, "end": 242, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3709", "labels": [{"start": 0, "end": 89, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3710", "labels": []}
+{"id": "train-fr-3713", "labels": [{"start": 0, "end": 553, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3716", "labels": [{"start": 0, "end": 47, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3723", "labels": [{"start": 0, "end": 464, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3729", "labels": [{"start": 0, "end": 180, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3735", "labels": [{"start": 0, "end": 264, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3738", "labels": [{"start": 0, "end": 76, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3746", "labels": [{"start": 0, "end": 267, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3756", "labels": []}
+{"id": "train-fr-3770", "labels": [{"start": 0, "end": 43, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3778", "labels": [{"start": 0, "end": 49, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3782", "labels": [{"start": 0, "end": 347, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3783", "labels": [{"start": 0, "end": 211, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3787", "labels": [{"start": 0, "end": 41, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3789", "labels": []}
+{"id": "train-fr-3795", "labels": [{"start": 0, "end": 356, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3797", "labels": [{"start": 0, "end": 85, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3804", "labels": [{"start": 0, "end": 135, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3807", "labels": [{"start": 0, "end": 300, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3814", "labels": []}
+{"id": "train-fr-3815", "labels": []}
+{"id": "train-fr-3823", "labels": [{"start": 0, "end": 101, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3824", "labels": [{"start": 0, "end": 159, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3831", "labels": [{"start": 0, "end": 57, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3842", "labels": [{"start": 0, "end": 72, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3858", "labels": [{"start": 0, "end": 305, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3867", "labels": []}
+{"id": "train-fr-3873", "labels": [{"start": 0, "end": 43, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3884", "labels": []}
+{"id": "train-fr-3885", "labels": [{"start": 0, "end": 148, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3892", "labels": []}
+{"id": "train-fr-3894", "labels": []}
+{"id": "train-fr-3910", "labels": [{"start": 0, "end": 73, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3930", "labels": [{"start": 0, "end": 238, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3943", "labels": [{"start": 0, "end": 476, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3962", "labels": []}
+{"id": "train-fr-3972", "labels": [{"start": 0, "end": 340, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-3973", "labels": []}
+{"id": "train-fr-3991", "labels": [{"start": 0, "end": 89, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4008", "labels": [{"start": 0, "end": 423, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4011", "labels": [{"start": 0, "end": 291, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4017", "labels": [{"start": 0, "end": 51, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4027", "labels": [{"start": 0, "end": 927, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4030", "labels": []}
+{"id": "train-fr-4031", "labels": [{"start": 0, "end": 296, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4033", "labels": [{"start": 0, "end": 57, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4041", "labels": [{"start": 0, "end": 306, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4052", "labels": [{"start": 0, "end": 517, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4065", "labels": []}
+{"id": "train-fr-4080", "labels": [{"start": 0, "end": 448, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4122", "labels": [{"start": 0, "end": 295, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4131", "labels": [{"start": 0, "end": 447, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4135", "labels": []}
+{"id": "train-fr-4137", "labels": []}
+{"id": "train-fr-4139", "labels": []}
+{"id": "train-fr-4144", "labels": []}
+{"id": "train-fr-4168", "labels": [{"start": 0, "end": 489, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4170", "labels": []}
+{"id": "train-fr-4175", "labels": [{"start": 0, "end": 352, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4187", "labels": [{"start": 0, "end": 401, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4197", "labels": [{"start": 0, "end": 289, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4202", "labels": []}
+{"id": "train-fr-4205", "labels": [{"start": 0, "end": 324, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4215", "labels": []}
+{"id": "train-fr-4234", "labels": [{"start": 0, "end": 277, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4249", "labels": [{"start": 0, "end": 658, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4256", "labels": [{"start": 0, "end": 156, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4267", "labels": [{"start": 0, "end": 260, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4273", "labels": [{"start": 0, "end": 230, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4282", "labels": [{"start": 0, "end": 36, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4293", "labels": []}
+{"id": "train-fr-4295", "labels": [{"start": 0, "end": 340, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4296", "labels": [{"start": 0, "end": 64, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4300", "labels": [{"start": 0, "end": 179, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4313", "labels": []}
+{"id": "train-fr-4327", "labels": []}
+{"id": "train-fr-4342", "labels": []}
+{"id": "train-fr-4343", "labels": []}
+{"id": "train-fr-4345", "labels": [{"start": 0, "end": 291, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4364", "labels": [{"start": 0, "end": 457, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4365", "labels": []}
+{"id": "train-fr-4371", "labels": [{"start": 0, "end": 192, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4374", "labels": [{"start": 0, "end": 329, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4375", "labels": [{"start": 0, "end": 317, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4393", "labels": [{"start": 0, "end": 28, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4399", "labels": [{"start": 0, "end": 221, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4401", "labels": []}
+{"id": "train-fr-4402", "labels": []}
+{"id": "train-fr-4409", "labels": [{"start": 0, "end": 40, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4420", "labels": [{"start": 0, "end": 462, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4421", "labels": []}
+{"id": "train-fr-4439", "labels": []}
+{"id": "train-fr-4441", "labels": []}
+{"id": "train-fr-4442", "labels": [{"start": 0, "end": 285, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4446", "labels": [{"start": 0, "end": 80, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4455", "labels": []}
+{"id": "train-fr-4459", "labels": []}
+{"id": "train-fr-4472", "labels": [{"start": 0, "end": 167, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4475", "labels": [{"start": 0, "end": 123, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4476", "labels": [{"start": 0, "end": 219, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4482", "labels": []}
+{"id": "train-fr-4487", "labels": [{"start": 0, "end": 334, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4496", "labels": [{"start": 0, "end": 45, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4497", "labels": [{"start": 0, "end": 383, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4509", "labels": [{"start": 0, "end": 149, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4513", "labels": []}
+{"id": "train-fr-4543", "labels": [{"start": 0, "end": 278, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4563", "labels": [{"start": 0, "end": 767, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4569", "labels": [{"start": 0, "end": 1048, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4582", "labels": [{"start": 0, "end": 851, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4589", "labels": []}
+{"id": "train-fr-4593", "labels": [{"start": 0, "end": 231, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4595", "labels": []}
+{"id": "train-fr-4603", "labels": [{"start": 0, "end": 1640, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4617", "labels": [{"start": 0, "end": 1234, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4620", "labels": []}
+{"id": "train-fr-4645", "labels": []}
+{"id": "train-fr-4651", "labels": [{"start": 0, "end": 786, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4652", "labels": [{"start": 0, "end": 180, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4654", "labels": [{"start": 0, "end": 3, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4664", "labels": [{"start": 0, "end": 45, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4670", "labels": [{"start": 0, "end": 568, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4688", "labels": [{"start": 0, "end": 998, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4716", "labels": [{"start": 0, "end": 713, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4721", "labels": []}
+{"id": "train-fr-4743", "labels": [{"start": 0, "end": 1613, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4765", "labels": [{"start": 0, "end": 1495, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4791", "labels": []}
+{"id": "train-fr-4794", "labels": [{"start": 0, "end": 1365, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4797", "labels": []}
+{"id": "train-fr-4807", "labels": [{"start": 0, "end": 900, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4814", "labels": [{"start": 0, "end": 1325, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4837", "labels": [{"start": 0, "end": 1640, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4838", "labels": [{"start": 0, "end": 864, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4857", "labels": [{"start": 0, "end": 861, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4867", "labels": [{"start": 0, "end": 947, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4879", "labels": [{"start": 0, "end": 606, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4889", "labels": [{"start": 0, "end": 577, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4890", "labels": [{"start": 0, "end": 587, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4891", "labels": []}
+{"id": "train-fr-4899", "labels": [{"start": 0, "end": 438, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4900", "labels": []}
+{"id": "train-fr-4906", "labels": [{"start": 0, "end": 394, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4913", "labels": [{"start": 0, "end": 1552, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4915", "labels": [{"start": 0, "end": 908, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4920", "labels": [{"start": 0, "end": 330, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4932", "labels": [{"start": 0, "end": 857, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4939", "labels": [{"start": 0, "end": 1562, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4950", "labels": []}
+{"id": "train-fr-4978", "labels": [{"start": 0, "end": 1404, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4981", "labels": []}
+{"id": "train-fr-4984", "labels": [{"start": 0, "end": 890, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4986", "labels": [{"start": 0, "end": 811, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-4997", "labels": []}
+{"id": "train-fr-5003", "labels": [{"start": 0, "end": 794, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-5004", "labels": [{"start": 0, "end": 1006, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-11913", "labels": []}
+{"id": "train-fr-11917", "labels": []}
+{"id": "train-fr-11921", "labels": [{"start": 0, "end": 51, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-11924", "labels": []}
+{"id": "train-fr-11931", "labels": [{"start": 0, "end": 287, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-11933", "labels": [{"start": 0, "end": 50, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-11934", "labels": []}
+{"id": "train-fr-11945", "labels": [{"start": 0, "end": 283, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-11946", "labels": [{"start": 0, "end": 314, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-11969", "labels": []}
+{"id": "train-fr-11972", "labels": [{"start": 0, "end": 55, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-11977", "labels": [{"start": 0, "end": 72, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12000", "labels": [{"start": 0, "end": 39, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12023", "labels": [{"start": 0, "end": 372, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12033", "labels": [{"start": 0, "end": 48, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12039", "labels": [{"start": 0, "end": 72, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12043", "labels": [{"start": 0, "end": 135, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12059", "labels": [{"start": 0, "end": 142, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12063", "labels": [{"start": 0, "end": 36, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12081", "labels": []}
+{"id": "train-fr-12083", "labels": [{"start": 0, "end": 173, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12096", "labels": []}
+{"id": "train-fr-12108", "labels": [{"start": 0, "end": 53, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12117", "labels": [{"start": 0, "end": 118, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12118", "labels": [{"start": 0, "end": 91, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12119", "labels": [{"start": 0, "end": 88, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12125", "labels": []}
+{"id": "train-fr-12129", "labels": [{"start": 0, "end": 1681, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12132", "labels": [{"start": 0, "end": 54, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12134", "labels": [{"start": 0, "end": 622, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12145", "labels": [{"start": 0, "end": 14, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12152", "labels": [{"start": 0, "end": 66, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12164", "labels": [{"start": 0, "end": 233, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12223", "labels": [{"start": 0, "end": 45, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12234", "labels": [{"start": 0, "end": 78, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12247", "labels": []}
+{"id": "train-fr-12263", "labels": [{"start": 0, "end": 63, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12272", "labels": []}
+{"id": "train-fr-12307", "labels": [{"start": 0, "end": 378, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12317", "labels": [{"start": 0, "end": 54, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12323", "labels": []}
+{"id": "train-fr-12340", "labels": [{"start": 0, "end": 182, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12341", "labels": []}
+{"id": "train-fr-12359", "labels": []}
+{"id": "train-fr-12366", "labels": []}
+{"id": "train-fr-12389", "labels": [{"start": 0, "end": 58, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12401", "labels": [{"start": 0, "end": 39, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12408", "labels": []}
+{"id": "train-fr-12421", "labels": [{"start": 0, "end": 60, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12426", "labels": [{"start": 0, "end": 40, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12429", "labels": [{"start": 0, "end": 6, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12456", "labels": [{"start": 0, "end": 36, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12465", "labels": [{"start": 0, "end": 202, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12479", "labels": [{"start": 0, "end": 72, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12526", "labels": [{"start": 0, "end": 220, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12529", "labels": [{"start": 0, "end": 29, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12540", "labels": [{"start": 0, "end": 69, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12569", "labels": [{"start": 0, "end": 209, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12579", "labels": [{"start": 0, "end": 246, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12586", "labels": []}
+{"id": "train-fr-12619", "labels": [{"start": 0, "end": 183, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12620", "labels": [{"start": 0, "end": 265, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12632", "labels": [{"start": 0, "end": 1179, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12640", "labels": [{"start": 0, "end": 833, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12656", "labels": [{"start": 0, "end": 127, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12665", "labels": [{"start": 0, "end": 387, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12673", "labels": [{"start": 0, "end": 171, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12676", "labels": [{"start": 0, "end": 407, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12687", "labels": [{"start": 0, "end": 500, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12715", "labels": [{"start": 0, "end": 432, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12723", "labels": []}
+{"id": "train-fr-12738", "labels": []}
+{"id": "train-fr-12740", "labels": [{"start": 0, "end": 253, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12742", "labels": [{"start": 0, "end": 510, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12749", "labels": [{"start": 0, "end": 344, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12750", "labels": [{"start": 0, "end": 191, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12761", "labels": [{"start": 0, "end": 99, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12773", "labels": [{"start": 0, "end": 166, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12775", "labels": [{"start": 0, "end": 306, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12789", "labels": [{"start": 0, "end": 363, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12790", "labels": [{"start": 0, "end": 116, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12796", "labels": []}
+{"id": "train-fr-12809", "labels": [{"start": 0, "end": 221, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12812", "labels": []}
+{"id": "train-fr-12818", "labels": [{"start": 0, "end": 45, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12828", "labels": [{"start": 0, "end": 53, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12830", "labels": []}
+{"id": "train-fr-12835", "labels": []}
+{"id": "train-fr-12841", "labels": [{"start": 0, "end": 47, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12850", "labels": [{"start": 0, "end": 38, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12853", "labels": [{"start": 0, "end": 905, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12857", "labels": [{"start": 0, "end": 265, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12864", "labels": []}
+{"id": "train-fr-12869", "labels": [{"start": 0, "end": 263, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12871", "labels": [{"start": 0, "end": 454, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12875", "labels": [{"start": 0, "end": 264, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12879", "labels": [{"start": 0, "end": 510, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12885", "labels": [{"start": 0, "end": 267, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12890", "labels": [{"start": 0, "end": 366, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12902", "labels": [{"start": 0, "end": 1114, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12909", "labels": [{"start": 0, "end": 155, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12919", "labels": [{"start": 0, "end": 174, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12928", "labels": [{"start": 0, "end": 528, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12929", "labels": [{"start": 0, "end": 260, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12932", "labels": [{"start": 0, "end": 230, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12940", "labels": [{"start": 0, "end": 129, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12950", "labels": [{"start": 0, "end": 440, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12953", "labels": [{"start": 0, "end": 116, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12954", "labels": []}
+{"id": "train-fr-12963", "labels": [{"start": 0, "end": 188, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12973", "labels": [{"start": 0, "end": 67, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12978", "labels": [{"start": 0, "end": 480, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12982", "labels": [{"start": 0, "end": 53, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-12992", "labels": [{"start": 0, "end": 835, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13010", "labels": [{"start": 0, "end": 57, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13025", "labels": [{"start": 0, "end": 1038, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13029", "labels": [{"start": 0, "end": 277, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13049", "labels": [{"start": 0, "end": 211, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13051", "labels": [{"start": 0, "end": 49, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13061", "labels": [{"start": 0, "end": 40, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13092", "labels": [{"start": 0, "end": 555, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13115", "labels": [{"start": 0, "end": 423, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13118", "labels": [{"start": 0, "end": 713, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13127", "labels": [{"start": 0, "end": 832, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13129", "labels": []}
+{"id": "train-fr-13141", "labels": [{"start": 0, "end": 79, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13150", "labels": []}
+{"id": "train-fr-13152", "labels": [{"start": 0, "end": 325, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13157", "labels": [{"start": 0, "end": 404, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13173", "labels": [{"start": 0, "end": 173, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13176", "labels": [{"start": 0, "end": 40, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13187", "labels": [{"start": 0, "end": 1058, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13200", "labels": [{"start": 0, "end": 50, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13209", "labels": [{"start": 0, "end": 504, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13216", "labels": [{"start": 0, "end": 23, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13222", "labels": []}
+{"id": "train-fr-13229", "labels": [{"start": 0, "end": 12, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13230", "labels": []}
+{"id": "train-fr-13236", "labels": [{"start": 0, "end": 345, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13238", "labels": []}
+{"id": "train-fr-13239", "labels": [{"start": 0, "end": 64, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13241", "labels": [{"start": 0, "end": 401, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13254", "labels": [{"start": 0, "end": 1167, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13266", "labels": [{"start": 0, "end": 189, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13291", "labels": []}
+{"id": "train-fr-13298", "labels": [{"start": 0, "end": 432, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13303", "labels": [{"start": 0, "end": 51, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13305", "labels": [{"start": 0, "end": 202, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13307", "labels": [{"start": 0, "end": 310, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13311", "labels": [{"start": 0, "end": 30, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13316", "labels": [{"start": 0, "end": 388, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13323", "labels": [{"start": 0, "end": 262, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13330", "labels": [{"start": 0, "end": 145, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13332", "labels": [{"start": 0, "end": 457, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13337", "labels": [{"start": 0, "end": 320, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13353", "labels": [{"start": 0, "end": 542, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13359", "labels": []}
+{"id": "train-fr-13369", "labels": [{"start": 0, "end": 40, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13383", "labels": []}
+{"id": "train-fr-13390", "labels": [{"start": 0, "end": 335, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13393", "labels": [{"start": 0, "end": 62, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13399", "labels": []}
+{"id": "train-fr-13418", "labels": [{"start": 0, "end": 896, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13429", "labels": [{"start": 0, "end": 98, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13446", "labels": [{"start": 0, "end": 96, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13458", "labels": [{"start": 0, "end": 675, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13464", "labels": [{"start": 0, "end": 531, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13466", "labels": []}
+{"id": "train-fr-13498", "labels": []}
+{"id": "train-fr-13511", "labels": []}
+{"id": "train-fr-13521", "labels": [{"start": 0, "end": 346, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13522", "labels": [{"start": 0, "end": 85, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13531", "labels": []}
+{"id": "train-fr-13551", "labels": []}
+{"id": "train-fr-13553", "labels": []}
+{"id": "train-fr-13561", "labels": [{"start": 0, "end": 345, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13565", "labels": []}
+{"id": "train-fr-13574", "labels": [{"start": 0, "end": 312, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13580", "labels": [{"start": 0, "end": 136, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13584", "labels": [{"start": 0, "end": 293, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13590", "labels": [{"start": 0, "end": 35, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13593", "labels": [{"start": 0, "end": 268, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13606", "labels": [{"start": 0, "end": 594, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13625", "labels": [{"start": 0, "end": 257, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13639", "labels": [{"start": 0, "end": 187, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13641", "labels": [{"start": 0, "end": 1366, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13645", "labels": [{"start": 0, "end": 1028, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13648", "labels": []}
+{"id": "train-fr-13653", "labels": [{"start": 0, "end": 233, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13659", "labels": []}
+{"id": "train-fr-13665", "labels": [{"start": 0, "end": 284, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13669", "labels": [{"start": 0, "end": 364, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13673", "labels": [{"start": 0, "end": 1012, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13693", "labels": [{"start": 0, "end": 77, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13701", "labels": []}
+{"id": "train-fr-13719", "labels": []}
+{"id": "train-fr-13726", "labels": [{"start": 0, "end": 39, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13733", "labels": [{"start": 0, "end": 72, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13734", "labels": [{"start": 0, "end": 307, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13742", "labels": [{"start": 0, "end": 47, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13753", "labels": [{"start": 0, "end": 43, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13755", "labels": []}
+{"id": "train-fr-13757", "labels": [{"start": 0, "end": 136, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13763", "labels": [{"start": 0, "end": 589, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13765", "labels": []}
+{"id": "train-fr-13772", "labels": [{"start": 0, "end": 280, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13780", "labels": [{"start": 0, "end": 799, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13781", "labels": [{"start": 0, "end": 37, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13795", "labels": [{"start": 0, "end": 285, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13802", "labels": [{"start": 0, "end": 352, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13809", "labels": [{"start": 0, "end": 1006, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13817", "labels": [{"start": 0, "end": 916, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13824", "labels": [{"start": 0, "end": 882, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13834", "labels": [{"start": 0, "end": 327, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13837", "labels": [{"start": 0, "end": 840, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13843", "labels": [{"start": 0, "end": 190, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13848", "labels": [{"start": 0, "end": 1522, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13858", "labels": [{"start": 0, "end": 845, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13860", "labels": [{"start": 0, "end": 27, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13864", "labels": [{"start": 0, "end": 35, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13866", "labels": [{"start": 0, "end": 1172, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13871", "labels": [{"start": 0, "end": 159, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13884", "labels": [{"start": 0, "end": 712, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13885", "labels": [{"start": 0, "end": 170, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13895", "labels": []}
+{"id": "train-fr-13902", "labels": [{"start": 0, "end": 820, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13924", "labels": [{"start": 0, "end": 68, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13931", "labels": [{"start": 0, "end": 123, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13938", "labels": [{"start": 0, "end": 45, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13939", "labels": [{"start": 0, "end": 112, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13972", "labels": [{"start": 0, "end": 611, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13973", "labels": [{"start": 0, "end": 407, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13978", "labels": []}
+{"id": "train-fr-13982", "labels": [{"start": 0, "end": 765, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13990", "labels": [{"start": 0, "end": 174, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-13994", "labels": [{"start": 0, "end": 192, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14003", "labels": [{"start": 0, "end": 186, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14022", "labels": [{"start": 0, "end": 93, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14023", "labels": [{"start": 0, "end": 516, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14029", "labels": []}
+{"id": "train-fr-14032", "labels": [{"start": 0, "end": 87, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14034", "labels": [{"start": 0, "end": 150, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14037", "labels": [{"start": 0, "end": 609, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14069", "labels": [{"start": 0, "end": 149, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14071", "labels": [{"start": 0, "end": 79, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14075", "labels": [{"start": 0, "end": 120, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14076", "labels": [{"start": 0, "end": 40, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14079", "labels": [{"start": 0, "end": 1433, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14085", "labels": [{"start": 0, "end": 466, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14087", "labels": []}
+{"id": "train-fr-14095", "labels": [{"start": 0, "end": 294, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14097", "labels": [{"start": 0, "end": 309, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14098", "labels": [{"start": 0, "end": 324, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14113", "labels": [{"start": 0, "end": 349, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14114", "labels": [{"start": 0, "end": 1043, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14116", "labels": [{"start": 0, "end": 1370, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14118", "labels": [{"start": 0, "end": 591, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14124", "labels": [{"start": 0, "end": 56, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14131", "labels": [{"start": 0, "end": 453, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14133", "labels": []}
+{"id": "train-fr-14149", "labels": []}
+{"id": "train-fr-14167", "labels": [{"start": 0, "end": 441, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14184", "labels": [{"start": 0, "end": 166, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14198", "labels": [{"start": 0, "end": 109, "label": "invention", "prob": 0.666}]}
+{"id": "train-fr-14199", "labels": [{"start": 0, "end": 938, "label": "invention", "prob": 0.666}]}
