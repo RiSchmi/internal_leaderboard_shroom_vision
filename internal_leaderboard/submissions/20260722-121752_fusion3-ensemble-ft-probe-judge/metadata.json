@@ -1,0 +1,12 @@
+{
+  "name": "Fusion3 (ensemble-ft + probe + judge)",
+  "short_description": "Weighted char-level late fusion of ensemble-ft, multi-stage probe and zero-shot judge + per-language thresholds",
+  "long_description": "Late fusion of three existing leaderboard systems: Ensemble-ft, Multi stage MLP (Qwen3), and FlagshipJudge (zero-shot). Each system's spans are converted to a per-character probability map (max over overlapping spans); maps are combined as a weighted average with weights 0.6 / 0.2 / 0.2, then thresholded for span presence per language (en/fr/it 0.2, zh 0.3). Contiguous runs of equal fused probability become spans; span prob = fused value; labels inherited from the highest-weighted constituent covering the span. Weights and thresholds were tuned on a deterministic 50% split of the internal gold (md5-hash of id) and validated on the held-out half (eval-half avg 0.481 vs tune-half 0.472 — no overfitting). No additional training. Reproduction: fuse the three named submissions' prediction files with the stated weights/thresholds.",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-22 12:17:52 UTC"
+}
