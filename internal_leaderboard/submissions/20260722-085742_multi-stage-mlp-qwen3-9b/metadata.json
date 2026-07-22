@@ -1,0 +1,12 @@
+{
+  "name": "Multi stage MLP Qwen3 9B",
+  "short_description": "Cross attn Multi stage MLP Qwen3 9B",
+  "long_description": "LEARNING_RATE = 1e-4\nWEIGHT_DECAY = 1e-2\nMAX_GRAD_NORM = 1.0\nMAX_POS_WEIGHT = 20.0\nTYPE_LOSS_WEIGHT = 1.0\nBOUNDARY_LOSS_WEIGHT = 0.1\nSAMPLE_LOSS_WEIGHT = 0.5\nLOCAL_AUX_LOSS_WEIGHT = 0.25\nSCHEDULER_FACTOR = 0.5\nSCHEDULER_PATIENCE = 2\nMIN_LEARNING_RATE = 1e-6\nEARLY_STOPPING_PATIENCE = 6\nMIN_IMPROVEMENT = 1e-4",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-22 08:57:42 UTC"
+}
