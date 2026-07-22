@@ -339,11 +339,12 @@ with tab_board:
                 st.divider()
                 confirm_key = f"confirm_delete_{e['id']}"
                 if st.session_state.get(confirm_key):
-                    st.warning("This will permanently remove this submission. Are you sure?")
+                    st.warning("This will permanently remove this submission from GitHub. Are you sure?")
                     c1, c2 = st.columns(2)
                     if c1.button("Yes, delete it", key=f"do_delete_{e['id']}", type="primary"):
                         try:
-                            delete_submission(st.secrets, e["id"])
+                            with st.spinner("Deleting submission files ..."):
+                                delete_submission(st.secrets, e["id"])
                             cached_submissions.clear()
                             st.session_state.pop(confirm_key, None)
                             st.rerun()
