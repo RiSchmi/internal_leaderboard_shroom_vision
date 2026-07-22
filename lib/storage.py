@@ -190,3 +190,46 @@ def load_submissions(secrets) -> list[dict]:
                 scores = json.load(fh)
             entries.append({"id": name, "metadata": metadata, "scores": scores})
     return entries
+
+def _gh_list_files_recursive(cfg, path: str) -> list[dict]:
+    """Return flat list of {'path', 'sha'} for every file under path (recursing into dirs)."""
+    listing = _gh_get_json(
+        cfg,
+        f"{_API}/repos/{cfg['repo']}/contents/{path}",
+        params={"ref": cfg["branch"]},
+    )
+    if not listing:
+        return []
+    files = []
+    for item in listing:
+        if item["type"] == "file":
+            files.append({"path": item["path"], "sha": item["sha"]})
+        elif item["type"] == "dir":
+            files.extend(_gh_list_files_recursive(cfg, item["path"]))
+    return files
+
+
+def _gh_delete_file(cfg, path: str, sha: str, message: str) -> None:
+    url = f"{_API}/repos/{cfg['repo']}/contents/{path}"
+    payload = {"message": message, "sha": sha, "branch": cfg["branch"]}
+    resp = requests.delete(url, headers=_headers(cfg), json=payload, timeout=30)
+    if not resp.ok:
+        raise StorageError(f"GitHub delete failed ({resp.status_code}): {resp.text[:300]}")
+
+
+def delete_submission(secrets, submission_id: str) -> None:
+    """Remove a submission (metadata, scores, and all prediction files)."""
+    cfg = github_config(secrets)
+    if cfg:
+        rel_dir = f"{SUBMISSIONS_REL_DIR}/{submission_id}"
+        files = _gh_list_files_recursive(cfg, rel_dir)
+        if not files:
+            raise StorageError(f"Submission {submission_id!r} not found on GitHub.")
+        for f in files:
+            _gh_delete_file(cfg, f["path"], f["sha"], f"leaderboard: remove submission {submission_id}")
+    else:
+        import shutil
+        folder = os.path.join(LOCAL_SUBMISSIONS_DIR, submission_id)
+        if not os.path.isdir(folder):
+            raise StorageError(f"Submission {submission_id!r} not found locally.")
+        shutil.rmtree(folder)
