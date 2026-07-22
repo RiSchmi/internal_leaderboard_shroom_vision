@@ -20,7 +20,7 @@ import streamlit as st
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from lib.scoring import score_submission
-from lib.storage import StorageError, github_config, load_submissions, save_submission
+from lib.storage import StorageError, github_config, load_submissions, save_submission, delete_submission  
 from lib.validation import LANGUAGES, ValidationError, collect_uploads
 
 st.set_page_config(page_title="SHROOM-Vis Internal Leaderboard", page_icon="🍄", layout="wide")
@@ -336,3 +336,23 @@ with tab_board:
                             "Ids without a prediction (not scored): "
                             + ", ".join(f"{l}: {n}" for l, n in sorted(missing.items()))
                         )
+                st.divider()
+                confirm_key = f"confirm_delete_{e['id']}"
+                if st.session_state.get(confirm_key):
+                    st.warning("This will permanently remove this submission. Are you sure?")
+                    c1, c2 = st.columns(2)
+                    if c1.button("Yes, delete it", key=f"do_delete_{e['id']}", type="primary"):
+                        try:
+                            delete_submission(st.secrets, e["id"])
+                            cached_submissions.clear()
+                            st.session_state.pop(confirm_key, None)
+                            st.rerun()
+                        except StorageError as exc:
+                            st.error(f"❌ {exc}")
+                    if c2.button("Cancel", key=f"cancel_delete_{e['id']}"):
+                        st.session_state.pop(confirm_key, None)
+                        st.rerun()
+                else:
+                    if st.button("🗑️ Remove submission", key=f"delete_{e['id']}"):
+                        st.session_state[confirm_key] = True
+                        st.rerun()
