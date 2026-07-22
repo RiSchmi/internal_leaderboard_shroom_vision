@@ -1,0 +1,12 @@
+{
+  "name": "FlagshipJudge (zero-shot)",
+  "short_description": "Zero-shot flagship-VLM annotator + per-language confidence calibration",
+  "long_description": "A frontier vision-language model is prompted zero-shot as a span annotator: it receives the image, the original prompt, and the response, and returns hallucinated fragments as verbatim quotes with a 1-3 confidence and one of the five task labels. Quotes are string-matched back to character offsets; span prob = confidence/3. A per-language confidence filter (tuned on a 50% split of the internal gold, evaluated on the other half) decides which spans to keep. No training, no fine-tuning; single model, single pass per sample. Full coverage of all 2,281 internal test ids.",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-22 08:51:27 UTC"
+}
