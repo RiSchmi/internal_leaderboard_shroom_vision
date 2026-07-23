@@ -1,0 +1,12 @@
+{
+  "name": "Ensemble-ft  + multi-layer-probe",
+  "short_description": "Ensemble-ft (4 vlm-ft  + multi-layer-probe)",
+  "long_description": "Ensemble voting for span boundaries with minvotes=2",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-23 16:43:37 UTC"
+}
