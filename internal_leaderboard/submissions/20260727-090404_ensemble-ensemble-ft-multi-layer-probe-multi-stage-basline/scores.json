@@ -1,0 +1,86 @@
+{
+  "run_id": "19b68e70e2f8",
+  "timestamp": "2026-07-27T09:04:04",
+  "input_file": "/tmp/tmpa8cyonj6/predictions.jsonl",
+  "reference_file": "/tmp/tmpa8cyonj6/reference.jsonl",
+  "pred_key": "predictions",
+  "gold_key": "labels",
+  "num_samples_scored": 2281,
+  "num_characters": 760885,
+  "num_missing_gold": 0,
+  "num_missing_predictions": 0,
+  "span_identification": {
+    "mean_iou": 0.470582,
+    "micro_iou": 0.284969,
+    "precision": 0.608712,
+    "recall": 0.348877,
+    "f1": 0.443542,
+    "char_tp": 41194,
+    "char_fp": 26480,
+    "char_fn": 76882
+  },
+  "confidence_calibration": {
+    "mean_spearman": 0.522204,
+    "micro_spearman": 0.412629,
+    "mae": 0.060686
+  },
+  "classification": {
+    "accuracy_on_intersection": 0.725445,
+    "accuracy_on_gold_hallucinated": 0.253091,
+    "macro_f1": 0.357485
+  },
+  "per_language": {
+    "en": {
+      "num_samples": 573,
+      "mean_iou": 0.412992,
+      "mean_spearman": 0.47083,
+      "micro_spearman": 0.425607
+    },
+    "fr": {
+      "num_samples": 533,
+      "mean_iou": 0.451872,
+      "mean_spearman": 0.496406,
+      "micro_spearman": 0.397244
+    },
+    "it": {
+      "num_samples": 556,
+      "mean_iou": 0.506117,
+      "mean_spearman": 0.569357,
+      "micro_spearman": 0.456272
+    },
+    "zh": {
+      "num_samples": 619,
+      "mean_iou": 0.508086,
+      "mean_spearman": 0.549619,
+      "micro_spearman": 0.341236
+    }
+  },
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "coverage": {
+    "zh": {
+      "predicted": 619,
+      "gold": 619,
+      "missing": 0
+    },
+    "it": {
+      "predicted": 556,
+      "gold": 556,
+      "missing": 0
+    },
+    "fr": {
+      "predicted": 533,
+      "gold": 533,
+      "missing": 0
+    },
+    "en": {
+      "predicted": 573,
+      "gold": 573,
+      "missing": 0
+    }
+  }
+}
