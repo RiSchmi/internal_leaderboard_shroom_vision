@@ -1,0 +1,12 @@
+{
+  "name": "Ensemble (Ensemble-ft + multi-layer-probe+multi-stage-basline)",
+  "short_description": "Ensembling using fine-tuned vlms",
+  "long_description": "Min-vote=3",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-27 09:04:04 UTC"
+}
