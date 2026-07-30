@@ -1,0 +1,12 @@
+{
+  "name": "test_labeled_multi_layer_f1",
+  "short_description": "test_labeled_multi_layer_f1",
+  "long_description": "test_labeled_multi_layer_f1",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-30 10:51:29 UTC"
+}
