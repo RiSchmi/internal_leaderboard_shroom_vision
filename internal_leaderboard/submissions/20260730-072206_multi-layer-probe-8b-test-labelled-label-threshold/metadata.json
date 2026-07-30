@@ -1,0 +1,12 @@
+{
+  "name": "multi_layer_probe_8b_test_labelled - label_threshold",
+  "short_description": "multi_layer_probe_8b_test_labelled but tuned thresholds",
+  "long_description": "-||-",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-30 07:22:06 UTC"
+}
