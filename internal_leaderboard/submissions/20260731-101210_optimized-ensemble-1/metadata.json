@@ -1,0 +1,12 @@
+{
+  "name": "Optimized ensemble 1",
+  "short_description": "Grid search over ensembling combinations",
+  "long_description": "en: optimized mean_iou=0.423161 micro_iou=0.285971 threshold_fraction=0.45 weights={'multi_stage_4b_lang_iou_focus': 1.0, 'qwen3-vl-30b-a3b-ft': 1.0, 'qwen3.6-27b-ft': 1.5, 'gemma-4-31b': 1.0, 'multi_layer_8b_mean_iou': 1.0, 'multi_stage_4b_9_best_f1_pre3774_rec5712': 2.0}\nfr: optimized mean_iou=0.470603 micro_iou=0.320111 threshold_fraction=0.35 weights={'multi_stage_4b_lang_iou_focus': 0.5, 'gemma-4-31b-ft': 2.0, 'multi_layer_8b_mean_iou': 1.0, 'qwen3.6-27b-ft': 2.0, 'qwen3-vl-30b-a3b-ft': 1.5, 'multi_stage_8b_mean_iou': 1.5}\nit: optimized mean_iou=0.478498 micro_iou=0.234442 threshold_fraction=0.40 weights={'gemma-4-31b-ft': 1.0, 'mistral-small-3.1-24b-ft': 1.5, 'gemma-4-31b': 1.0, 'qwen3-vl-30b-a3b-ft': 0.5, 'qwen3.6-27b-ft': 1.0, 'multi_stage_4b_9_best_f1_pre3774_rec5712': 1.0}\nzh: optimized mean_iou=0.513032 micro_iou=0.222092 threshold_fraction=0.45 weights={'gemma-4-31b-ft': 1.5, 'gemma-4-31b': 1.5, 'qwen3-vl-30b-a3b-ft': 2.0, 'multi_stage_4b_lang_f1_focus': 1.5, 'multi_stage_8b_mean_iou': 1.0}\nGLOBAL: mean_iou=0.472124 micro_iou=0.281208",
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "submitted_at": "2026-07-31 10:12:10 UTC"
+}
